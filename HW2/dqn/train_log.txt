@@ -1,0 +1,582 @@
+epoch 100 done: explore rate = 0.9900493386913721
+epoch 200 done: explore rate = 0.980197693043223
+epoch 300 done: explore rate = 0.970444077784251
+epoch 400 done: explore rate = 0.9607875174472562
+epoch 500 done: explore rate = 0.9512270462715811
+epoch 600 done: explore rate = 0.9417617081065252
+epoch 700 done: explore rate = 0.9323905563157222
+epoch 800 done: explore rate = 0.9231126536824614
+epoch 900 done: explore rate = 0.9139270723159584
+epoch 1000 done: explore rate = 0.9048328935585562
+epoch 1100 done: explore rate = 0.8958292078938495
+epoch 1200 done: explore rate = 0.886915114855721
+epoch 1300 done: explore rate = 0.8780897229382887
+epoch 1400 done: explore rate = 0.8693521495067424
+epoch 1500 done: explore rate = 0.8607015207090729
+epoch 1600 done: explore rate = 0.8521369713886755
+epoch 1700 done: explore rate = 0.843657644997827
+epoch 1800 done: explore rate = 0.8352626935120188
+epoch 1900 done: explore rate = 0.8269512773451482
+epoch 2000 done: explore rate = 0.8187225652655491
+random player VS random player: win 53, tie 0, loss 47
+model1 VS random player: win 1, tie 0, loss 99
+random player VS model2: win 100, tie 0, loss 0. (Noted that "loss" means random player loss (model2 win))
+epoch 2100 done: explore rate = 0.8105757343128605
+epoch 2200 done: explore rate = 0.8025099697157205
+epoch 2300 done: explore rate = 0.7945244648102819
+epoch 2400 done: explore rate = 0.7866184209595359
+epoch 2500 done: explore rate = 0.7787910474734399
+epoch 2600 done: explore rate = 0.7710415615298397
+epoch 2700 done: explore rate = 0.7633691880961806
+epoch 2800 done: explore rate = 0.7557731598519929
+epoch 2900 done: explore rate = 0.748252717112154
+epoch 3000 done: explore rate = 0.74080710775091
+epoch 3100 done: explore rate = 0.7334355871266565
+epoch 3200 done: explore rate = 0.7261374180074647
+epoch 3300 done: explore rate = 0.7189118704973512
+epoch 3400 done: explore rate = 0.7117582219632792
+epoch 3500 done: explore rate = 0.7046757569628911
+epoch 3600 done: explore rate = 0.697663767172952
+epoch 3700 done: explore rate = 0.6907215513185129
+epoch 3800 done: explore rate = 0.6838484151027725
+epoch 3900 done: explore rate = 0.6770436711376424
+epoch 4000 done: explore rate = 0.6703066388750015
+random player VS random player: win 41, tie 0, loss 59
+model1 VS random player: win 18, tie 0, loss 82
+random player VS model2: win 91, tie 0, loss 9. (Noted that "loss" means random player loss (model2 win))
+epoch 4100 done: explore rate = 0.6636366445386316
+epoch 4200 done: explore rate = 0.657033021056833
+epoch 4300 done: explore rate = 0.6504951079957114
+epoch 4400 done: explore rate = 0.6440222514931265
+epoch 4500 done: explore rate = 0.6376138041932984
+epoch 4600 done: explore rate = 0.6312691251820646
+epoch 4700 done: explore rate = 0.6249875799227835
+epoch 4800 done: explore rate = 0.6187685401928729
+epoch 4900 done: explore rate = 0.6126113840209793
+epoch 5000 done: explore rate = 0.6065154956247766
+epoch 5100 done: explore rate = 0.6004802653493791
+epoch 5200 done: explore rate = 0.594505089606372
+epoch 5300 done: explore rate = 0.5885893708134431
+epoch 5400 done: explore rate = 0.5827325173346204
+epoch 5500 done: explore rate = 0.5769339434210992
+epoch 5600 done: explore rate = 0.5711930691526644
+epoch 5700 done: explore rate = 0.565509320379691
+epoch 5800 done: explore rate = 0.5598821286657205
+epoch 5900 done: explore rate = 0.5543109312306146
+epoch 6000 done: explore rate = 0.5487951708942683
+random player VS random player: win 48, tie 0, loss 52
+model1 VS random player: win 21, tie 0, loss 79
+random player VS model2: win 87, tie 0, loss 13. (Noted that "loss" means random player loss (model2 win))
+epoch 6100 done: explore rate = 0.5433342960208886
+epoch 6200 done: explore rate = 0.5379277604638235
+epoch 6300 done: explore rate = 0.5325750235109391
+epoch 6400 done: explore rate = 0.5272755498305473
+epoch 6500 done: explore rate = 0.5220288094178624
+epoch 6600 done: explore rate = 0.5168342775419988
+epoch 6700 done: explore rate = 0.5116914346934888
+epoch 6800 done: explore rate = 0.506599766532328
+epoch 6900 done: explore rate = 0.5015587638365347
+epoch 7000 done: explore rate = 0.496567922451223
+epoch 7100 done: explore rate = 0.4916267432381818
+epoch 7200 done: explore rate = 0.4867347320259549
+epoch 7300 done: explore rate = 0.48189139956041893
+epoch 7400 done: explore rate = 0.4770962614558525
+epoch 7500 done: explore rate = 0.4723488381464926
+epoch 7600 done: explore rate = 0.467648654838573
+epoch 7700 done: explore rate = 0.46299524146283894
+epoch 7800 done: explore rate = 0.4583881326275357
+epoch 7900 done: explore rate = 0.45382686757186447
+epoch 8000 done: explore rate = 0.4493109901199013
+random player VS random player: win 48, tie 1, loss 51
+model1 VS random player: win 28, tie 0, loss 72
+random player VS model2: win 71, tie 0, loss 29. (Noted that "loss" means random player loss (model2 win))
+epoch 8100 done: explore rate = 0.44484004863497356
+epoch 8200 done: explore rate = 0.4404135959744933
+epoch 8300 done: explore rate = 0.4360311894452362
+epoch 8400 done: explore rate = 0.4316923907590687
+epoch 8500 done: explore rate = 0.42739676598911336
+epoch 8600 done: explore rate = 0.42314388552635285
+epoch 8700 done: explore rate = 0.4189333240366638
+epoch 8800 done: explore rate = 0.41476466041827703
+epoch 8900 done: explore rate = 0.41063747775966636
+epoch 9000 done: explore rate = 0.4065513632978508
+epoch 9100 done: explore rate = 0.40250590837711264
+epoch 9200 done: explore rate = 0.39850070840813034
+epoch 9300 done: explore rate = 0.39453536282751267
+epoch 9400 done: explore rate = 0.3906094750577395
+epoch 9500 done: explore rate = 0.3867226524674988
+epoch 9600 done: explore rate = 0.38287450633242015
+epoch 9700 done: explore rate = 0.3790646517961982
+epoch 9800 done: explore rate = 0.375292707832101
+epoch 9900 done: explore rate = 0.37155829720486555
+epoch 10000 done: explore rate = 0.3678610464329692
+random player VS random player: win 49, tie 1, loss 50
+model1 VS random player: win 19, tie 0, loss 81
+random player VS model2: win 73, tie 0, loss 27. (Noted that "loss" means random player loss (model2 win))
+epoch 10100 done: explore rate = 0.36420058575127745
+epoch 10200 done: explore rate = 0.36057654907406234
+epoch 10300 done: explore rate = 0.35698857395839245
+epoch 10400 done: explore rate = 0.35343630156788247
+epoch 10500 done: explore rate = 0.34991937663680617
+epoch 10600 done: explore rate = 0.34643744743456717
+epoch 10700 done: explore rate = 0.34299016573052
+epoch 10800 done: explore rate = 0.33957718675914567
+epoch 10900 done: explore rate = 0.3361981691855686
+epoch 11000 done: explore rate = 0.33285277507142214
+epoch 11100 done: explore rate = 0.32954066984104946
+epoch 11200 done: explore rate = 0.32626152224804283
+epoch 11300 done: explore rate = 0.32301500434211516
+epoch 11400 done: explore rate = 0.3198007914363015
+epoch 11500 done: explore rate = 0.3166185620744876
+epoch 11600 done: explore rate = 0.31346799799925945
+epoch 11700 done: explore rate = 0.3103487841200748
+epoch 11800 done: explore rate = 0.30726060848175163
+epoch 11900 done: explore rate = 0.3042031622332665
+epoch 12000 done: explore rate = 0.30117613959686973
+random player VS random player: win 55, tie 0, loss 45
+model1 VS random player: win 29, tie 0, loss 71
+random player VS model2: win 80, tie 0, loss 20. (Noted that "loss" means random player loss (model2 win))
+epoch 12100 done: explore rate = 0.2981792378375013
+epoch 12200 done: explore rate = 0.2952121572325153
+epoch 12300 done: explore rate = 0.29227460104170494
+epoch 12400 done: explore rate = 0.28936627547762456
+epoch 12500 done: explore rate = 0.28648688967620767
+epoch 12600 done: explore rate = 0.28363615566767725
+epoch 12700 done: explore rate = 0.2808137883477466
+epoch 12800 done: explore rate = 0.27801950544910525
+epoch 12900 done: explore rate = 0.2752530275131885
+epoch 13000 done: explore rate = 0.27251407786223053
+epoch 13100 done: explore rate = 0.26980238257159034
+epoch 13200 done: explore rate = 0.26711767044235935
+epoch 13300 done: explore rate = 0.2644596729742376
+epoch 13400 done: explore rate = 0.2618281243386805
+epoch 13500 done: explore rate = 0.2592227613523128
+epoch 13600 done: explore rate = 0.2566433234506087
+epoch 13700 done: explore rate = 0.25408955266183103
+epoch 13800 done: explore rate = 0.251561193581232
+epoch 13900 done: explore rate = 0.24905799334551096
+epoch 14000 done: explore rate = 0.24657970160752318
+random player VS random player: win 64, tie 1, loss 35
+model1 VS random player: win 20, tie 0, loss 80
+random player VS model2: win 69, tie 0, loss 31. (Noted that "loss" means random player loss (model2 win))
+epoch 14100 done: explore rate = 0.24412607051124421
+epoch 14200 done: explore rate = 0.24169685466698065
+epoch 14300 done: explore rate = 0.2392918111268288
+epoch 14400 done: explore rate = 0.23691069936037742
+epoch 14500 done: explore rate = 0.23455328123065203
+epoch 14600 done: explore rate = 0.23221932097029852
+epoch 14700 done: explore rate = 0.22990858515800353
+epoch 14800 done: explore rate = 0.22762084269515043
+epoch 14900 done: explore rate = 0.22535586478270647
+epoch 15000 done: explore rate = 0.2231134248983408
+epoch 15100 done: explore rate = 0.22089329877376948
+epoch 15200 done: explore rate = 0.21869526437232614
+epoch 15300 done: explore rate = 0.21651910186675627
+epoch 15400 done: explore rate = 0.21436459361723184
+epoch 15500 done: explore rate = 0.21223152414958518
+epoch 15600 done: explore rate = 0.21011968013375878
+epoch 15700 done: explore rate = 0.20802885036247035
+epoch 15800 done: explore rate = 0.20595882573009017
+epoch 15900 done: explore rate = 0.20390939921172724
+epoch 16000 done: explore rate = 0.20188036584252542
+random player VS random player: win 65, tie 0, loss 35
+model1 VS random player: win 10, tie 0, loss 90
+random player VS model2: win 88, tie 0, loss 12. (Noted that "loss" means random player loss (model2 win))
+epoch 16100 done: explore rate = 0.19987152269716466
+epoch 16200 done: explore rate = 0.1978826688695654
+epoch 16300 done: explore rate = 0.195913605452797
+epoch 16400 done: explore rate = 0.19396413551918396
+epoch 16500 done: explore rate = 0.1920340641006117
+epoch 16600 done: explore rate = 0.19012319816902712
+epoch 16700 done: explore rate = 0.1882313466171339
+epoch 16800 done: explore rate = 0.18635832023927978
+epoch 16900 done: explore rate = 0.1845039317125339
+epoch 17000 done: explore rate = 0.1826679955779523
+epoch 17100 done: explore rate = 0.1808503282220301
+epoch 17200 done: explore rate = 0.1790507478583385
+epoch 17300 done: explore rate = 0.17726907450934348
+epoch 17400 done: explore rate = 0.17550512998840695
+epoch 17500 done: explore rate = 0.17375873788196544
+epoch 17600 done: explore rate = 0.17202972353188736
+epoch 17700 done: explore rate = 0.17031791401800456
+epoch 17800 done: explore rate = 0.16862313814081933
+epoch 17900 done: explore rate = 0.16694522640438217
+epoch 18000 done: explore rate = 0.16528401099933998
+random player VS random player: win 56, tie 1, loss 43
+model1 VS random player: win 36, tie 0, loss 64
+random player VS model2: win 75, tie 0, loss 25. (Noted that "loss" means random player loss (model2 win))
+epoch 18100 done: explore rate = 0.163639325786154
+epoch 18200 done: explore rate = 0.16201100627848367
+epoch 18300 done: explore rate = 0.1603988896267364
+epoch 18400 done: explore rate = 0.1588028146017808
+epoch 18500 done: explore rate = 0.15722262157882166
+epoch 18600 done: explore rate = 0.15565815252143622
+epoch 18700 done: explore rate = 0.15410925096576863
+epoch 18800 done: explore rate = 0.15257576200488188
+epoch 18900 done: explore rate = 0.15105753227326543
+epoch 19000 done: explore rate = 0.1495544099314969
+epoch 19100 done: explore rate = 0.1480662446510568
+epoch 19200 done: explore rate = 0.14659288759929356
+epoch 19300 done: explore rate = 0.14513419142453915
+epoch 19400 done: explore rate = 0.143690010241372
+epoch 19500 done: explore rate = 0.14226019961602693
+epoch 19600 done: explore rate = 0.14084461655195007
+epoch 19700 done: explore rate = 0.13944311947549812
+epoch 19800 done: explore rate = 0.1380555682217789
+epoch 19900 done: explore rate = 0.1366818240206338
+epoch 20000 done: explore rate = 0.13532174948275888
+random player VS random player: win 53, tie 0, loss 47
+model1 VS random player: win 0, tie 0, loss 100
+random player VS model2: win 78, tie 0, loss 22. (Noted that "loss" means random player loss (model2 win))
+epoch 20100 done: explore rate = 0.1339752085859649
+epoch 20200 done: explore rate = 0.13264206666157294
+epoch 20300 done: explore rate = 0.13132219038094714
+epoch 20400 done: explore rate = 0.13001544774215912
+epoch 20500 done: explore rate = 0.12872170805678726
+epoch 20600 done: explore rate = 0.12744084193684627
+epoch 20700 done: explore rate = 0.12617272128184642
+epoch 20800 done: explore rate = 0.12491721926598288
+epoch 20900 done: explore rate = 0.12367421032545148
+epoch 21000 done: explore rate = 0.12244357014589088
+epoch 21100 done: explore rate = 0.12122517564994978
+epoch 21200 done: explore rate = 0.12001890498497819
+epoch 21300 done: explore rate = 0.11882463751084026
+epoch 21400 done: explore rate = 0.11764225378784934
+epoch 21500 done: explore rate = 0.11647163556482282
+epoch 21600 done: explore rate = 0.11531266576725528
+epoch 21700 done: explore rate = 0.11416522848561032
+epoch 21800 done: explore rate = 0.11302920896372795
+epoch 21900 done: explore rate = 0.11190449358734772
+epoch 22000 done: explore rate = 0.1107909698727465
+random player VS random player: win 57, tie 0, loss 43
+model1 VS random player: win 39, tie 0, loss 61
+random player VS model2: win 80, tie 0, loss 20. (Noted that "loss" means random player loss (model2 win))
+epoch 22100 done: explore rate = 0.10968852645548838
+epoch 22200 done: explore rate = 0.10859705307928727
+epoch 22300 done: explore rate = 0.10751644058498025
+epoch 22400 done: explore rate = 0.10644658089960989
+epoch 22500 done: explore rate = 0.10538736702561637
+epoch 22600 done: explore rate = 0.1043386930301364
+epoch 22700 done: explore rate = 0.10330045403440859
+epoch 22800 done: explore rate = 0.1022725462032847
+epoch 22900 done: explore rate = 0.10125486673484486
+epoch 23000 done: explore rate = 0.10024731385011618
+epoch 23100 done: explore rate = 0.09924978678289394
+epoch 23200 done: explore rate = 0.09826218576966377
+epoch 23300 done: explore rate = 0.09728441203962435
+epoch 23400 done: explore rate = 0.09631636780480905
+epoch 23500 done: explore rate = 0.09535795625030616
+epoch 23600 done: explore rate = 0.0944090815245764
+epoch 23700 done: explore rate = 0.09346964872986667
+epoch 23800 done: explore rate = 0.09253956391271932
+epoch 23900 done: explore rate = 0.09161873405457568
+epoch 24000 done: explore rate = 0.09070706706247338
+random player VS random player: win 65, tie 0, loss 35
+model1 VS random player: win 38, tie 0, loss 62
+random player VS model2: win 64, tie 0, loss 36. (Noted that "loss" means random player loss (model2 win))
+epoch 24100 done: explore rate = 0.08980447175983564
+epoch 24200 done: explore rate = 0.08891085787735328
+epoch 24300 done: explore rate = 0.0880261360439562
+epoch 24400 done: explore rate = 0.08715021777787559
+epoch 24500 done: explore rate = 0.08628301547779468
+epoch 24600 done: explore rate = 0.08542444241408796
+epoch 24700 done: explore rate = 0.08457441272014694
+epoch 24800 done: explore rate = 0.08373284138379254
+epoch 24900 done: explore rate = 0.08289964423877334
+epoch 25000 done: explore rate = 0.08207473795634762
+epoch 25100 done: explore rate = 0.08125804003694956
+epoch 25200 done: explore rate = 0.08044946880193893
+epoch 25300 done: explore rate = 0.07964894338543184
+epoch 25400 done: explore rate = 0.07885638372621333
+epoch 25500 done: explore rate = 0.07807171055973046
+epoch 25600 done: explore rate = 0.07729484541016532
+epoch 25700 done: explore rate = 0.07652571058258602
+epoch 25800 done: explore rate = 0.0757642291551766
+epoch 25900 done: explore rate = 0.07501032497154418
+epoch 26000 done: explore rate = 0.0742639226331022
+random player VS random player: win 50, tie 1, loss 49
+model1 VS random player: win 35, tie 0, loss 65
+random player VS model2: win 83, tie 0, loss 17. (Noted that "loss" means random player loss (model2 win))
+epoch 26100 done: explore rate = 0.07352494749153006
+epoch 26200 done: explore rate = 0.07279332564130718
+epoch 26300 done: explore rate = 0.07206898391232179
+epoch 26400 done: explore rate = 0.07135184986255329
+epoch 26500 done: explore rate = 0.07064185177082695
+epoch 26600 done: explore rate = 0.0699389186296412
+epoch 26700 done: explore rate = 0.06924298013806587
+epoch 26800 done: explore rate = 0.06855396669471192
+epoch 26900 done: explore rate = 0.06787180939076978
+epoch 27000 done: explore rate = 0.06719644000311842
+epoch 27100 done: explore rate = 0.06652779098750185
+epoch 27200 done: explore rate = 0.06586579547177404
+epoch 27300 done: explore rate = 0.065210387249211
+epoch 27400 done: explore rate = 0.06456150077188956
+epoch 27500 done: explore rate = 0.06391907114413178
+epoch 27600 done: explore rate = 0.0632830341160145
+epoch 27700 done: explore rate = 0.06265332607694366
+epoch 27800 done: explore rate = 0.06202988404929297
+epoch 27900 done: explore rate = 0.06141264568210499
+epoch 28000 done: explore rate = 0.06080154924485561
+random player VS random player: win 43, tie 0, loss 57
+model1 VS random player: win 7, tie 0, loss 93
+random player VS model2: win 93, tie 0, loss 7. (Noted that "loss" means random player loss (model2 win))
+epoch 28100 done: explore rate = 0.06019653362128017
+epoch 28200 done: explore rate = 0.05959753830326138
+epoch 28300 done: explore rate = 0.05900450338477764
+epoch 28400 done: explore rate = 0.05841736955591191
+epoch 28500 done: explore rate = 0.057836078096920054
+epoch 28600 done: explore rate = 0.05726057087235828
+epoch 28700 done: explore rate = 0.05669079032526875
+epoch 28800 done: explore rate = 0.05612667947142353
+epoch 28900 done: explore rate = 0.055568181893625425
+epoch 29000 done: explore rate = 0.05501524173606571
+epoch 29100 done: explore rate = 0.05446780369873779
+epoch 29200 done: explore rate = 0.053925813031906814
+epoch 29300 done: explore rate = 0.05338921553063389
+epoch 29400 done: explore rate = 0.0528579575293552
+epoch 29500 done: explore rate = 0.052331985896514756
+epoch 29600 done: explore rate = 0.05181124802925062
+epoch 29700 done: explore rate = 0.051295691848134206
+epoch 29800 done: explore rate = 0.05078526579196164
+epoch 29900 done: explore rate = 0.05027991881259718
+epoch 30000 done: explore rate = 0.049999124186081836
+random player VS random player: win 53, tie 0, loss 47
+model1 VS random player: win 14, tie 0, loss 86
+random player VS model2: win 90, tie 0, loss 10. (Noted that "loss" means random player loss (model2 win))
+epoch 30100 done: explore rate = 0.049999124186081836
+epoch 30200 done: explore rate = 0.049999124186081836
+epoch 30300 done: explore rate = 0.049999124186081836
+epoch 30400 done: explore rate = 0.049999124186081836
+epoch 30500 done: explore rate = 0.049999124186081836
+epoch 30600 done: explore rate = 0.049999124186081836
+epoch 30700 done: explore rate = 0.049999124186081836
+epoch 30800 done: explore rate = 0.049999124186081836
+epoch 30900 done: explore rate = 0.049999124186081836
+epoch 31000 done: explore rate = 0.049999124186081836
+epoch 31100 done: explore rate = 0.049999124186081836
+epoch 31200 done: explore rate = 0.049999124186081836
+epoch 31300 done: explore rate = 0.049999124186081836
+epoch 31400 done: explore rate = 0.049999124186081836
+epoch 31500 done: explore rate = 0.049999124186081836
+epoch 31600 done: explore rate = 0.049999124186081836
+epoch 31700 done: explore rate = 0.049999124186081836
+epoch 31800 done: explore rate = 0.049999124186081836
+epoch 31900 done: explore rate = 0.049999124186081836
+epoch 32000 done: explore rate = 0.049999124186081836
+random player VS random player: win 48, tie 0, loss 52
+model1 VS random player: win 26, tie 0, loss 74
+random player VS model2: win 71, tie 0, loss 29. (Noted that "loss" means random player loss (model2 win))
+epoch 32100 done: explore rate = 0.049999124186081836
+epoch 32200 done: explore rate = 0.049999124186081836
+epoch 32300 done: explore rate = 0.049999124186081836
+epoch 32400 done: explore rate = 0.049999124186081836
+epoch 32500 done: explore rate = 0.049999124186081836
+epoch 32600 done: explore rate = 0.049999124186081836
+epoch 32700 done: explore rate = 0.049999124186081836
+epoch 32800 done: explore rate = 0.049999124186081836
+epoch 32900 done: explore rate = 0.049999124186081836
+epoch 33000 done: explore rate = 0.049999124186081836
+epoch 33100 done: explore rate = 0.049999124186081836
+epoch 33200 done: explore rate = 0.049999124186081836
+epoch 33300 done: explore rate = 0.049999124186081836
+epoch 33400 done: explore rate = 0.049999124186081836
+epoch 33500 done: explore rate = 0.049999124186081836
+epoch 33600 done: explore rate = 0.049999124186081836
+epoch 33700 done: explore rate = 0.049999124186081836
+epoch 33800 done: explore rate = 0.049999124186081836
+epoch 33900 done: explore rate = 0.049999124186081836
+epoch 34000 done: explore rate = 0.049999124186081836
+random player VS random player: win 58, tie 0, loss 42
+model1 VS random player: win 35, tie 0, loss 65
+random player VS model2: win 77, tie 0, loss 23. (Noted that "loss" means random player loss (model2 win))
+epoch 34100 done: explore rate = 0.049999124186081836
+epoch 34200 done: explore rate = 0.049999124186081836
+epoch 34300 done: explore rate = 0.049999124186081836
+epoch 34400 done: explore rate = 0.049999124186081836
+epoch 34500 done: explore rate = 0.049999124186081836
+epoch 34600 done: explore rate = 0.049999124186081836
+epoch 34700 done: explore rate = 0.049999124186081836
+epoch 34800 done: explore rate = 0.049999124186081836
+epoch 34900 done: explore rate = 0.049999124186081836
+epoch 35000 done: explore rate = 0.049999124186081836
+epoch 35100 done: explore rate = 0.049999124186081836
+epoch 35200 done: explore rate = 0.049999124186081836
+epoch 35300 done: explore rate = 0.049999124186081836
+epoch 35400 done: explore rate = 0.049999124186081836
+epoch 35500 done: explore rate = 0.049999124186081836
+epoch 35600 done: explore rate = 0.049999124186081836
+epoch 35700 done: explore rate = 0.049999124186081836
+epoch 35800 done: explore rate = 0.049999124186081836
+epoch 35900 done: explore rate = 0.049999124186081836
+epoch 36000 done: explore rate = 0.049999124186081836
+random player VS random player: win 52, tie 1, loss 47
+model1 VS random player: win 0, tie 0, loss 100
+random player VS model2: win 68, tie 0, loss 32. (Noted that "loss" means random player loss (model2 win))
+epoch 36100 done: explore rate = 0.049999124186081836
+epoch 36200 done: explore rate = 0.049999124186081836
+epoch 36300 done: explore rate = 0.049999124186081836
+epoch 36400 done: explore rate = 0.049999124186081836
+epoch 36500 done: explore rate = 0.049999124186081836
+epoch 36600 done: explore rate = 0.049999124186081836
+epoch 36700 done: explore rate = 0.049999124186081836
+epoch 36800 done: explore rate = 0.049999124186081836
+epoch 36900 done: explore rate = 0.049999124186081836
+epoch 37000 done: explore rate = 0.049999124186081836
+epoch 37100 done: explore rate = 0.049999124186081836
+epoch 37200 done: explore rate = 0.049999124186081836
+epoch 37300 done: explore rate = 0.049999124186081836
+epoch 37400 done: explore rate = 0.049999124186081836
+epoch 37500 done: explore rate = 0.049999124186081836
+epoch 37600 done: explore rate = 0.049999124186081836
+epoch 37700 done: explore rate = 0.049999124186081836
+epoch 37800 done: explore rate = 0.049999124186081836
+epoch 37900 done: explore rate = 0.049999124186081836
+epoch 38000 done: explore rate = 0.049999124186081836
+random player VS random player: win 55, tie 0, loss 45
+model1 VS random player: win 18, tie 0, loss 82
+random player VS model2: win 61, tie 0, loss 39. (Noted that "loss" means random player loss (model2 win))
+epoch 38100 done: explore rate = 0.049999124186081836
+epoch 38200 done: explore rate = 0.049999124186081836
+epoch 38300 done: explore rate = 0.049999124186081836
+epoch 38400 done: explore rate = 0.049999124186081836
+epoch 38500 done: explore rate = 0.049999124186081836
+epoch 38600 done: explore rate = 0.049999124186081836
+epoch 38700 done: explore rate = 0.049999124186081836
+epoch 38800 done: explore rate = 0.049999124186081836
+epoch 38900 done: explore rate = 0.049999124186081836
+epoch 39000 done: explore rate = 0.049999124186081836
+epoch 39100 done: explore rate = 0.049999124186081836
+epoch 39200 done: explore rate = 0.049999124186081836
+epoch 39300 done: explore rate = 0.049999124186081836
+epoch 39400 done: explore rate = 0.049999124186081836
+epoch 39500 done: explore rate = 0.049999124186081836
+epoch 39600 done: explore rate = 0.049999124186081836
+epoch 39700 done: explore rate = 0.049999124186081836
+epoch 39800 done: explore rate = 0.049999124186081836
+epoch 39900 done: explore rate = 0.049999124186081836
+epoch 40000 done: explore rate = 0.049999124186081836
+random player VS random player: win 49, tie 0, loss 51
+model1 VS random player: win 40, tie 0, loss 60
+random player VS model2: win 79, tie 0, loss 21. (Noted that "loss" means random player loss (model2 win))
+epoch 40100 done: explore rate = 0.049999124186081836
+epoch 40200 done: explore rate = 0.049999124186081836
+epoch 40300 done: explore rate = 0.049999124186081836
+epoch 40400 done: explore rate = 0.049999124186081836
+epoch 40500 done: explore rate = 0.049999124186081836
+epoch 40600 done: explore rate = 0.049999124186081836
+epoch 40700 done: explore rate = 0.049999124186081836
+epoch 40800 done: explore rate = 0.049999124186081836
+epoch 40900 done: explore rate = 0.049999124186081836
+epoch 41000 done: explore rate = 0.049999124186081836
+epoch 41100 done: explore rate = 0.049999124186081836
+epoch 41200 done: explore rate = 0.049999124186081836
+epoch 41300 done: explore rate = 0.049999124186081836
+epoch 41400 done: explore rate = 0.049999124186081836
+epoch 41500 done: explore rate = 0.049999124186081836
+epoch 41600 done: explore rate = 0.049999124186081836
+epoch 41700 done: explore rate = 0.049999124186081836
+epoch 41800 done: explore rate = 0.049999124186081836
+epoch 41900 done: explore rate = 0.049999124186081836
+epoch 42000 done: explore rate = 0.049999124186081836
+random player VS random player: win 47, tie 0, loss 53
+model1 VS random player: win 28, tie 0, loss 72
+random player VS model2: win 85, tie 0, loss 15. (Noted that "loss" means random player loss (model2 win))
+epoch 42100 done: explore rate = 0.049999124186081836
+epoch 42200 done: explore rate = 0.049999124186081836
+epoch 42300 done: explore rate = 0.049999124186081836
+epoch 42400 done: explore rate = 0.049999124186081836
+epoch 42500 done: explore rate = 0.049999124186081836
+epoch 42600 done: explore rate = 0.049999124186081836
+epoch 42700 done: explore rate = 0.049999124186081836
+epoch 42800 done: explore rate = 0.049999124186081836
+epoch 42900 done: explore rate = 0.049999124186081836
+epoch 43000 done: explore rate = 0.049999124186081836
+epoch 43100 done: explore rate = 0.049999124186081836
+epoch 43200 done: explore rate = 0.049999124186081836
+epoch 43300 done: explore rate = 0.049999124186081836
+epoch 43400 done: explore rate = 0.049999124186081836
+epoch 43500 done: explore rate = 0.049999124186081836
+epoch 43600 done: explore rate = 0.049999124186081836
+epoch 43700 done: explore rate = 0.049999124186081836
+epoch 43800 done: explore rate = 0.049999124186081836
+epoch 43900 done: explore rate = 0.049999124186081836
+epoch 44000 done: explore rate = 0.049999124186081836
+random player VS random player: win 52, tie 2, loss 46
+model1 VS random player: win 41, tie 0, loss 59
+random player VS model2: win 83, tie 0, loss 17. (Noted that "loss" means random player loss (model2 win))
+epoch 44100 done: explore rate = 0.049999124186081836
+epoch 44200 done: explore rate = 0.049999124186081836
+epoch 44300 done: explore rate = 0.049999124186081836
+epoch 44400 done: explore rate = 0.049999124186081836
+epoch 44500 done: explore rate = 0.049999124186081836
+epoch 44600 done: explore rate = 0.049999124186081836
+epoch 44700 done: explore rate = 0.049999124186081836
+epoch 44800 done: explore rate = 0.049999124186081836
+epoch 44900 done: explore rate = 0.049999124186081836
+epoch 45000 done: explore rate = 0.049999124186081836
+epoch 45100 done: explore rate = 0.049999124186081836
+epoch 45200 done: explore rate = 0.049999124186081836
+epoch 45300 done: explore rate = 0.049999124186081836
+epoch 45400 done: explore rate = 0.049999124186081836
+epoch 45500 done: explore rate = 0.049999124186081836
+epoch 45600 done: explore rate = 0.049999124186081836
+epoch 45700 done: explore rate = 0.049999124186081836
+epoch 45800 done: explore rate = 0.049999124186081836
+epoch 45900 done: explore rate = 0.049999124186081836
+epoch 46000 done: explore rate = 0.049999124186081836
+random player VS random player: win 55, tie 0, loss 45
+model1 VS random player: win 23, tie 0, loss 77
+random player VS model2: win 67, tie 0, loss 33. (Noted that "loss" means random player loss (model2 win))
+epoch 46100 done: explore rate = 0.049999124186081836
+epoch 46200 done: explore rate = 0.049999124186081836
+epoch 46300 done: explore rate = 0.049999124186081836
+epoch 46400 done: explore rate = 0.049999124186081836
+epoch 46500 done: explore rate = 0.049999124186081836
+epoch 46600 done: explore rate = 0.049999124186081836
+epoch 46700 done: explore rate = 0.049999124186081836
+epoch 46800 done: explore rate = 0.049999124186081836
+epoch 46900 done: explore rate = 0.049999124186081836
+epoch 47000 done: explore rate = 0.049999124186081836
+epoch 47100 done: explore rate = 0.049999124186081836
+epoch 47200 done: explore rate = 0.049999124186081836
+epoch 47300 done: explore rate = 0.049999124186081836
+epoch 47400 done: explore rate = 0.049999124186081836
+epoch 47500 done: explore rate = 0.049999124186081836
+epoch 47600 done: explore rate = 0.049999124186081836
+epoch 47700 done: explore rate = 0.049999124186081836
+epoch 47800 done: explore rate = 0.049999124186081836
+epoch 47900 done: explore rate = 0.049999124186081836
+epoch 48000 done: explore rate = 0.049999124186081836
+random player VS random player: win 44, tie 1, loss 55
+model1 VS random player: win 32, tie 0, loss 68
+random player VS model2: win 78, tie 0, loss 22. (Noted that "loss" means random player loss (model2 win))
+epoch 48100 done: explore rate = 0.049999124186081836
+epoch 48200 done: explore rate = 0.049999124186081836
+epoch 48300 done: explore rate = 0.049999124186081836
+epoch 48400 done: explore rate = 0.049999124186081836
+epoch 48500 done: explore rate = 0.049999124186081836
+epoch 48600 done: explore rate = 0.049999124186081836
+epoch 48700 done: explore rate = 0.049999124186081836
+epoch 48800 done: explore rate = 0.049999124186081836
+epoch 48900 done: explore rate = 0.049999124186081836
+epoch 49000 done: explore rate = 0.049999124186081836
+epoch 49100 done: explore rate = 0.049999124186081836
+epoch 49200 done: explore rate = 0.049999124186081836
+epoch 49300 done: explore rate = 0.049999124186081836
+epoch 49400 done: explore rate = 0.049999124186081836
+epoch 49500 done: explore rate = 0.049999124186081836
+epoch 49600 done: explore rate = 0.049999124186081836
+epoch 49700 done: explore rate = 0.049999124186081836
+epoch 49800 done: explore rate = 0.049999124186081836
+epoch 49900 done: explore rate = 0.049999124186081836
+epoch 50000 done: explore rate = 0.049999124186081836
+random player VS random player: win 53, tie 0, loss 47
+model1 VS random player: win 25, tie 0, loss 75
+random player VS model2: win 86, tie 0, loss 14. (Noted that "loss" means random player loss (model2 win))
+INFO:tensorflow:Assets written to: model1\assets
+INFO:tensorflow:Assets written to: model1\assets
+INFO:tensorflow:Assets written to: model2\assets
+INFO:tensorflow:Assets written to: model2\assets
+random player VS random player: win 530, tie 2, loss 468
+model1 VS random player: win 239, tie 0, loss 761
+random player VS model2: win 867, tie 0, loss 133. (Noted that "loss" means random player loss (model2 win))

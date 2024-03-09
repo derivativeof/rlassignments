@@ -1,0 +1,298 @@
+2024-03-05 01:27:59.806328: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\27038\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+Arguments parsed: Namespace(init_explore_rate=0.5, last_explore_rate=0.2, change_explore_at=15000, num_epochs=40000, model_source='train', model_save_paths='agent1,agent2', layers=(128, 128), network_learning_rate=0.001, td_learning_rate=0.01, test_times=1000)
+WARNING:tensorflow:From C:\Users\27038\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-03-05 01:28:07.482429: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE SSE2 SSE3 SSE4.1 SSE4.2 AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING:tensorflow:From C:\Users\27038\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+Iteration 250 done. it takes 102.93 seconds.
+Iteration 500 done. it takes 205.45 seconds.
+Iteration 750 done. it takes 307.56 seconds.
+Iteration 1000 done. it takes 411.48 seconds.
+random player VS random player: win 46, tie 2, loss 52
+player1 VS random player: win 56, tie 0, loss 44
+random player VS player2: win 17, tie 2, loss 81
+Iteration 1250 done. it takes 557.41 seconds.
+Iteration 1500 done. it takes 659.81 seconds.
+Iteration 1750 done. it takes 767.44 seconds.
+Iteration 2000 done. it takes 873.71 seconds.
+random player VS random player: win 54, tie 1, loss 45
+player1 VS random player: win 59, tie 0, loss 41
+random player VS player2: win 18, tie 0, loss 82
+Iteration 2250 done. it takes 1011.47 seconds.
+Iteration 2500 done. it takes 1115.60 seconds.
+Iteration 2750 done. it takes 1215.48 seconds.
+Iteration 3000 done. it takes 1314.76 seconds.
+random player VS random player: win 49, tie 0, loss 51
+player1 VS random player: win 72, tie 0, loss 28
+random player VS player2: win 13, tie 0, loss 87
+Iteration 3250 done. it takes 1447.95 seconds.
+Iteration 3500 done. it takes 1548.16 seconds.
+Iteration 3750 done. it takes 1648.67 seconds.
+Iteration 4000 done. it takes 1748.43 seconds.
+random player VS random player: win 54, tie 0, loss 46
+player1 VS random player: win 83, tie 0, loss 17
+random player VS player2: win 12, tie 0, loss 88
+Iteration 4250 done. it takes 1881.53 seconds.
+Iteration 4500 done. it takes 1981.86 seconds.
+Iteration 4750 done. it takes 2083.37 seconds.
+Iteration 5000 done. it takes 2180.68 seconds.
+random player VS random player: win 55, tie 0, loss 45
+player1 VS random player: win 73, tie 0, loss 27
+random player VS player2: win 14, tie 0, loss 86
+Iteration 5250 done. it takes 2311.21 seconds.
+Iteration 5500 done. it takes 2408.30 seconds.
+Iteration 5750 done. it takes 2507.08 seconds.
+Iteration 6000 done. it takes 2608.43 seconds.
+random player VS random player: win 54, tie 2, loss 44
+player1 VS random player: win 78, tie 0, loss 22
+random player VS player2: win 25, tie 1, loss 74
+Iteration 6250 done. it takes 2743.64 seconds.
+Iteration 6500 done. it takes 2841.82 seconds.
+Iteration 6750 done. it takes 2940.60 seconds.
+Iteration 7000 done. it takes 3037.06 seconds.
+random player VS random player: win 52, tie 0, loss 48
+player1 VS random player: win 73, tie 0, loss 27
+random player VS player2: win 19, tie 0, loss 81
+Iteration 7250 done. it takes 3168.34 seconds.
+Iteration 7500 done. it takes 3267.56 seconds.
+Iteration 7750 done. it takes 3367.76 seconds.
+Iteration 8000 done. it takes 3467.75 seconds.
+random player VS random player: win 53, tie 0, loss 47
+player1 VS random player: win 70, tie 0, loss 30
+random player VS player2: win 34, tie 0, loss 66
+Iteration 8250 done. it takes 3597.85 seconds.
+Iteration 8500 done. it takes 3698.21 seconds.
+Iteration 8750 done. it takes 3798.48 seconds.
+Iteration 9000 done. it takes 3897.82 seconds.
+random player VS random player: win 50, tie 0, loss 50
+player1 VS random player: win 73, tie 0, loss 27
+random player VS player2: win 35, tie 2, loss 63
+Iteration 9250 done. it takes 4038.55 seconds.
+Iteration 9500 done. it takes 4139.05 seconds.
+Iteration 9750 done. it takes 4237.59 seconds.
+Iteration 10000 done. it takes 4336.75 seconds.
+random player VS random player: win 45, tie 1, loss 54
+player1 VS random player: win 85, tie 0, loss 15
+random player VS player2: win 23, tie 0, loss 77
+Iteration 10250 done. it takes 4471.49 seconds.
+Iteration 10500 done. it takes 4573.80 seconds.
+Iteration 10750 done. it takes 4672.83 seconds.
+Iteration 11000 done. it takes 4769.81 seconds.
+random player VS random player: win 49, tie 0, loss 51
+player1 VS random player: win 82, tie 0, loss 18
+random player VS player2: win 27, tie 1, loss 72
+Iteration 11250 done. it takes 4902.81 seconds.
+Iteration 11500 done. it takes 5004.15 seconds.
+Iteration 11750 done. it takes 5103.55 seconds.
+Iteration 12000 done. it takes 5206.34 seconds.
+random player VS random player: win 47, tie 0, loss 53
+player1 VS random player: win 74, tie 0, loss 26
+random player VS player2: win 22, tie 0, loss 78
+Iteration 12250 done. it takes 5340.69 seconds.
+Iteration 12500 done. it takes 5440.04 seconds.
+Iteration 12750 done. it takes 5542.34 seconds.
+Iteration 13000 done. it takes 5643.77 seconds.
+random player VS random player: win 55, tie 0, loss 45
+player1 VS random player: win 62, tie 2, loss 36
+random player VS player2: win 17, tie 0, loss 83
+Iteration 13250 done. it takes 5774.87 seconds.
+Iteration 13500 done. it takes 5872.37 seconds.
+Iteration 13750 done. it takes 5969.87 seconds.
+Iteration 14000 done. it takes 6068.06 seconds.
+random player VS random player: win 50, tie 0, loss 50
+player1 VS random player: win 82, tie 0, loss 18
+random player VS player2: win 23, tie 0, loss 77
+Iteration 14250 done. it takes 6198.03 seconds.
+Iteration 14500 done. it takes 6297.43 seconds.
+Iteration 14750 done. it takes 6393.44 seconds.
+Iteration 15000 done. it takes 6490.81 seconds.
+random player VS random player: win 48, tie 0, loss 52
+player1 VS random player: win 83, tie 0, loss 17
+random player VS player2: win 26, tie 0, loss 74
+Iteration 15250 done. it takes 6638.82 seconds.
+Iteration 15500 done. it takes 6760.31 seconds.
+Iteration 15750 done. it takes 6879.88 seconds.
+Iteration 16000 done. it takes 7002.48 seconds.
+random player VS random player: win 48, tie 0, loss 52
+player1 VS random player: win 60, tie 0, loss 40
+random player VS player2: win 18, tie 0, loss 82
+Iteration 16250 done. it takes 7157.49 seconds.
+Iteration 16500 done. it takes 7269.79 seconds.
+Iteration 16750 done. it takes 7387.45 seconds.
+Iteration 17000 done. it takes 7505.50 seconds.
+random player VS random player: win 45, tie 0, loss 55
+player1 VS random player: win 85, tie 1, loss 14
+random player VS player2: win 28, tie 0, loss 72
+Iteration 17250 done. it takes 7654.29 seconds.
+Iteration 17500 done. it takes 7776.27 seconds.
+Iteration 17750 done. it takes 7897.16 seconds.
+Iteration 18000 done. it takes 8017.86 seconds.
+random player VS random player: win 55, tie 0, loss 45
+player1 VS random player: win 71, tie 0, loss 29
+random player VS player2: win 26, tie 0, loss 74
+Iteration 18250 done. it takes 8173.56 seconds.
+Iteration 18500 done. it takes 8297.41 seconds.
+Iteration 18750 done. it takes 8418.35 seconds.
+Iteration 19000 done. it takes 8541.24 seconds.
+random player VS random player: win 60, tie 0, loss 40
+player1 VS random player: win 82, tie 0, loss 18
+random player VS player2: win 21, tie 1, loss 78
+Iteration 19250 done. it takes 8696.80 seconds.
+Iteration 19500 done. it takes 8812.42 seconds.
+Iteration 19750 done. it takes 8930.04 seconds.
+Iteration 20000 done. it takes 9047.74 seconds.
+random player VS random player: win 61, tie 0, loss 39
+player1 VS random player: win 68, tie 1, loss 31
+random player VS player2: win 10, tie 1, loss 89
+Iteration 20250 done. it takes 9202.81 seconds.
+Iteration 20500 done. it takes 9324.02 seconds.
+Iteration 20750 done. it takes 9447.81 seconds.
+Iteration 21000 done. it takes 9567.43 seconds.
+random player VS random player: win 54, tie 0, loss 46
+player1 VS random player: win 56, tie 3, loss 41
+random player VS player2: win 29, tie 1, loss 70
+Iteration 21250 done. it takes 9721.70 seconds.
+Iteration 21500 done. it takes 9843.96 seconds.
+Iteration 21750 done. it takes 9968.49 seconds.
+Iteration 22000 done. it takes 10090.90 seconds.
+random player VS random player: win 57, tie 0, loss 43
+player1 VS random player: win 69, tie 0, loss 31
+random player VS player2: win 19, tie 0, loss 81
+Iteration 22250 done. it takes 10241.25 seconds.
+Iteration 22500 done. it takes 10357.66 seconds.
+Iteration 22750 done. it takes 10487.27 seconds.
+Iteration 23000 done. it takes 10608.97 seconds.
+random player VS random player: win 45, tie 2, loss 53
+player1 VS random player: win 70, tie 0, loss 30
+random player VS player2: win 13, tie 1, loss 86
+Iteration 23250 done. it takes 10764.58 seconds.
+Iteration 23500 done. it takes 10879.39 seconds.
+Iteration 23750 done. it takes 10999.71 seconds.
+Iteration 24000 done. it takes 11115.63 seconds.
+random player VS random player: win 47, tie 0, loss 53
+player1 VS random player: win 77, tie 0, loss 23
+random player VS player2: win 15, tie 0, loss 85
+Iteration 24250 done. it takes 11270.33 seconds.
+Iteration 24500 done. it takes 11394.31 seconds.
+Iteration 24750 done. it takes 11513.90 seconds.
+Iteration 25000 done. it takes 11630.98 seconds.
+random player VS random player: win 50, tie 0, loss 50
+player1 VS random player: win 81, tie 0, loss 19
+random player VS player2: win 32, tie 0, loss 68
+Iteration 25250 done. it takes 11783.15 seconds.
+Iteration 25500 done. it takes 11903.68 seconds.
+Iteration 25750 done. it takes 12024.33 seconds.
+Iteration 26000 done. it takes 12141.56 seconds.
+random player VS random player: win 45, tie 0, loss 55
+player1 VS random player: win 76, tie 1, loss 23
+random player VS player2: win 16, tie 0, loss 84
+Iteration 26250 done. it takes 12286.92 seconds.
+Iteration 26500 done. it takes 12407.29 seconds.
+Iteration 26750 done. it takes 12526.21 seconds.
+Iteration 27000 done. it takes 12643.60 seconds.
+random player VS random player: win 57, tie 0, loss 43
+player1 VS random player: win 69, tie 0, loss 31
+random player VS player2: win 25, tie 0, loss 75
+Iteration 27250 done. it takes 12793.56 seconds.
+Iteration 27500 done. it takes 12905.38 seconds.
+Iteration 27750 done. it takes 13018.30 seconds.
+Iteration 28000 done. it takes 13133.85 seconds.
+random player VS random player: win 49, tie 0, loss 51
+player1 VS random player: win 75, tie 1, loss 24
+random player VS player2: win 18, tie 0, loss 82
+Iteration 28250 done. it takes 13282.35 seconds.
+Iteration 28500 done. it takes 13396.94 seconds.
+Iteration 28750 done. it takes 13514.48 seconds.
+Iteration 29000 done. it takes 13632.20 seconds.
+random player VS random player: win 52, tie 0, loss 48
+player1 VS random player: win 67, tie 0, loss 33
+random player VS player2: win 23, tie 0, loss 77
+Iteration 29250 done. it takes 13788.59 seconds.
+Iteration 29500 done. it takes 13906.28 seconds.
+Iteration 29750 done. it takes 14022.34 seconds.
+Iteration 30000 done. it takes 14138.79 seconds.
+random player VS random player: win 62, tie 2, loss 36
+player1 VS random player: win 68, tie 0, loss 32
+random player VS player2: win 30, tie 0, loss 70
+Iteration 30250 done. it takes 14288.06 seconds.
+Iteration 30500 done. it takes 14406.92 seconds.
+Iteration 30750 done. it takes 14524.85 seconds.
+Iteration 31000 done. it takes 14638.94 seconds.
+random player VS random player: win 51, tie 0, loss 49
+player1 VS random player: win 81, tie 1, loss 18
+random player VS player2: win 21, tie 1, loss 78
+Iteration 31250 done. it takes 14784.70 seconds.
+Iteration 31500 done. it takes 14890.31 seconds.
+Iteration 31750 done. it takes 15004.27 seconds.
+Iteration 32000 done. it takes 15119.00 seconds.
+random player VS random player: win 55, tie 0, loss 45
+player1 VS random player: win 86, tie 1, loss 13
+random player VS player2: win 18, tie 0, loss 82
+Iteration 32250 done. it takes 15266.94 seconds.
+Iteration 32500 done. it takes 15387.34 seconds.
+Iteration 32750 done. it takes 15505.36 seconds.
+Iteration 33000 done. it takes 15623.38 seconds.
+random player VS random player: win 48, tie 1, loss 51
+player1 VS random player: win 71, tie 0, loss 29
+random player VS player2: win 17, tie 0, loss 83
+Iteration 33250 done. it takes 15772.77 seconds.
+Iteration 33500 done. it takes 15886.20 seconds.
+Iteration 33750 done. it takes 16000.74 seconds.
+Iteration 34000 done. it takes 16111.19 seconds.
+random player VS random player: win 56, tie 0, loss 44
+player1 VS random player: win 78, tie 0, loss 22
+random player VS player2: win 21, tie 0, loss 79
+Iteration 34250 done. it takes 16253.64 seconds.
+Iteration 34500 done. it takes 16362.05 seconds.
+Iteration 34750 done. it takes 16472.36 seconds.
+Iteration 35000 done. it takes 16582.96 seconds.
+random player VS random player: win 58, tie 0, loss 42
+player1 VS random player: win 75, tie 1, loss 24
+random player VS player2: win 21, tie 0, loss 79
+Iteration 35250 done. it takes 16725.21 seconds.
+Iteration 35500 done. it takes 16843.27 seconds.
+Iteration 35750 done. it takes 16963.31 seconds.
+Iteration 36000 done. it takes 17077.42 seconds.
+random player VS random player: win 50, tie 0, loss 50
+player1 VS random player: win 89, tie 0, loss 11
+random player VS player2: win 17, tie 0, loss 83
+Iteration 36250 done. it takes 17217.85 seconds.
+Iteration 36500 done. it takes 17329.51 seconds.
+Iteration 36750 done. it takes 17441.65 seconds.
+Iteration 37000 done. it takes 17556.67 seconds.
+random player VS random player: win 58, tie 0, loss 42
+player1 VS random player: win 86, tie 0, loss 14
+random player VS player2: win 26, tie 0, loss 74
+Iteration 37250 done. it takes 17698.36 seconds.
+Iteration 37500 done. it takes 17812.28 seconds.
+Iteration 37750 done. it takes 17926.53 seconds.
+Iteration 38000 done. it takes 18039.46 seconds.
+random player VS random player: win 52, tie 1, loss 47
+player1 VS random player: win 78, tie 0, loss 22
+random player VS player2: win 15, tie 0, loss 85
+Iteration 38250 done. it takes 18180.27 seconds.
+Iteration 38500 done. it takes 18294.75 seconds.
+Iteration 38750 done. it takes 18408.84 seconds.
+Iteration 39000 done. it takes 18521.60 seconds.
+random player VS random player: win 60, tie 0, loss 40
+player1 VS random player: win 72, tie 1, loss 27
+random player VS player2: win 19, tie 0, loss 81
+Iteration 39250 done. it takes 18668.58 seconds.
+Iteration 39500 done. it takes 18782.43 seconds.
+Iteration 39750 done. it takes 18894.21 seconds.
+Iteration 40000 done. it takes 19006.79 seconds.
+random player VS random player: win 60, tie 1, loss 39
+player1 VS random player: win 83, tie 2, loss 15
+random player VS player2: win 26, tie 0, loss 74
+Training done, it takes 19038.44 seconds.
+INFO:tensorflow:Assets written to: agent1\assets
+INFO:tensorflow:Assets written to: agent1\assets
+INFO:tensorflow:Assets written to: agent2\assets
+INFO:tensorflow:Assets written to: agent2\assets
+random player VS random player: win 561, tie 6, loss 433
+player1 VS random player: win 801, tie 6, loss 193
+random player VS player2: win 230, tie 2, loss 768
