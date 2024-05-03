@@ -1,0 +1,1259 @@
+Iteration 500 done. Current Explore rate is 0.9975. It takes 92.84 seconds
+Iteration 1000 done. Current Explore rate is 0.9950. It takes 189.75 seconds
+Iteration 1500 done. Current Explore rate is 0.9925. It takes 299.52 seconds
+Iteration 2000 done. Current Explore rate is 0.9900. It takes 416.51 seconds
+Win rate as first player:49.00%, as second player:50.00%
+Iteration 2500 done. Current Explore rate is 0.9876. It takes 549.41 seconds
+Iteration 3000 done. Current Explore rate is 0.9851. It takes 672.19 seconds
+Iteration 3500 done. Current Explore rate is 0.9827. It takes 793.20 seconds
+Iteration 4000 done. Current Explore rate is 0.9802. It takes 928.94 seconds
+Win rate as first player:53.06%, as second player:53.54%
+Iteration 4500 done. Current Explore rate is 0.9778. It takes 1070.31 seconds
+Iteration 5000 done. Current Explore rate is 0.9753. It takes 1206.92 seconds
+Iteration 5500 done. Current Explore rate is 0.9729. It takes 1334.76 seconds
+Iteration 6000 done. Current Explore rate is 0.9704. It takes 1458.46 seconds
+Win rate as first player:52.53%, as second player:54.55%
+Iteration 6500 done. Current Explore rate is 0.9680. It takes 1596.90 seconds
+Iteration 7000 done. Current Explore rate is 0.9656. It takes 1721.77 seconds
+Iteration 7500 done. Current Explore rate is 0.9632. It takes 1849.41 seconds
+Iteration 8000 done. Current Explore rate is 0.9608. It takes 1976.86 seconds
+Win rate as first player:61.62%, as second player:58.59%
+Iteration 8500 done. Current Explore rate is 0.9584. It takes 2119.86 seconds
+Iteration 9000 done. Current Explore rate is 0.9560. It takes 2257.61 seconds
+Iteration 9500 done. Current Explore rate is 0.9536. It takes 2398.57 seconds
+Iteration 10000 done. Current Explore rate is 0.9512. It takes 2595.41 seconds
+Win rate as first player:58.59%, as second player:52.00%
+Iteration 10500 done. Current Explore rate is 0.9489. It takes 2751.98 seconds
+Iteration 11000 done. Current Explore rate is 0.9465. It takes 2888.93 seconds
+Iteration 11500 done. Current Explore rate is 0.9441. It takes 3030.51 seconds
+Iteration 12000 done. Current Explore rate is 0.9418. It takes 3173.58 seconds
+Win rate as first player:60.61%, as second player:48.48%
+Iteration 12500 done. Current Explore rate is 0.9394. It takes 3327.39 seconds
+Iteration 13000 done. Current Explore rate is 0.9371. It takes 3467.23 seconds
+Iteration 13500 done. Current Explore rate is 0.9347. It takes 3612.60 seconds
+Iteration 14000 done. Current Explore rate is 0.9324. It takes 3761.21 seconds
+Win rate as first player:66.67%, as second player:50.00%
+Iteration 14500 done. Current Explore rate is 0.9301. It takes 3911.47 seconds
+Iteration 15000 done. Current Explore rate is 0.9277. It takes 4033.87 seconds
+Iteration 15500 done. Current Explore rate is 0.9254. It takes 4154.77 seconds
+Iteration 16000 done. Current Explore rate is 0.9231. It takes 4276.92 seconds
+Win rate as first player:72.00%, as second player:49.00%
+Iteration 16500 done. Current Explore rate is 0.9208. It takes 4403.38 seconds
+Iteration 17000 done. Current Explore rate is 0.9185. It takes 4525.54 seconds
+Iteration 17500 done. Current Explore rate is 0.9162. It takes 4647.61 seconds
+Iteration 18000 done. Current Explore rate is 0.9139. It takes 4769.38 seconds
+Win rate as first player:56.57%, as second player:66.00%
+Iteration 18500 done. Current Explore rate is 0.9116. It takes 4897.96 seconds
+Iteration 19000 done. Current Explore rate is 0.9094. It takes 5019.62 seconds
+Iteration 19500 done. Current Explore rate is 0.9071. It takes 5143.08 seconds
+Iteration 20000 done. Current Explore rate is 0.9048. It takes 5264.18 seconds
+Win rate as first player:68.00%, as second player:50.00%
+Iteration 20500 done. Current Explore rate is 0.9026. It takes 5396.67 seconds
+Iteration 21000 done. Current Explore rate is 0.9003. It takes 5521.89 seconds
+Iteration 21500 done. Current Explore rate is 0.8981. It takes 5645.07 seconds
+Iteration 22000 done. Current Explore rate is 0.8958. It takes 5768.53 seconds
+Win rate as first player:67.35%, as second player:61.00%
+Iteration 22500 done. Current Explore rate is 0.8936. It takes 5896.60 seconds
+Iteration 23000 done. Current Explore rate is 0.8914. It takes 6018.75 seconds
+Iteration 23500 done. Current Explore rate is 0.8891. It takes 6141.00 seconds
+Iteration 24000 done. Current Explore rate is 0.8869. It takes 6263.17 seconds
+Win rate as first player:59.00%, as second player:57.00%
+Iteration 24500 done. Current Explore rate is 0.8847. It takes 6392.04 seconds
+Iteration 25000 done. Current Explore rate is 0.8825. It takes 6514.01 seconds
+Iteration 25500 done. Current Explore rate is 0.8803. It takes 6634.46 seconds
+Iteration 26000 done. Current Explore rate is 0.8781. It takes 6755.07 seconds
+Win rate as first player:66.00%, as second player:58.00%
+Iteration 26500 done. Current Explore rate is 0.8759. It takes 6883.61 seconds
+Iteration 27000 done. Current Explore rate is 0.8737. It takes 7005.60 seconds
+Iteration 27500 done. Current Explore rate is 0.8715. It takes 7128.20 seconds
+Iteration 28000 done. Current Explore rate is 0.8694. It takes 7250.94 seconds
+Win rate as first player:73.00%, as second player:62.00%
+Iteration 28500 done. Current Explore rate is 0.8672. It takes 7379.49 seconds
+Iteration 29000 done. Current Explore rate is 0.8650. It takes 7502.32 seconds
+Iteration 29500 done. Current Explore rate is 0.8629. It takes 7625.05 seconds
+Iteration 30000 done. Current Explore rate is 0.8607. It takes 7746.80 seconds
+Win rate as first player:63.64%, as second player:68.00%
+Iteration 30500 done. Current Explore rate is 0.8586. It takes 7873.81 seconds
+Iteration 31000 done. Current Explore rate is 0.8564. It takes 7994.56 seconds
+Iteration 31500 done. Current Explore rate is 0.8543. It takes 8116.33 seconds
+Iteration 32000 done. Current Explore rate is 0.8521. It takes 8237.54 seconds
+Win rate as first player:72.00%, as second player:55.00%
+Iteration 32500 done. Current Explore rate is 0.8500. It takes 8365.64 seconds
+Iteration 33000 done. Current Explore rate is 0.8479. It takes 8488.15 seconds
+Iteration 33500 done. Current Explore rate is 0.8458. It takes 8610.66 seconds
+Iteration 34000 done. Current Explore rate is 0.8437. It takes 8732.88 seconds
+Win rate as first player:61.00%, as second player:62.24%
+Iteration 34500 done. Current Explore rate is 0.8416. It takes 8861.71 seconds
+Iteration 35000 done. Current Explore rate is 0.8395. It takes 8984.62 seconds
+Iteration 35500 done. Current Explore rate is 0.8374. It takes 9107.00 seconds
+Iteration 36000 done. Current Explore rate is 0.8353. It takes 9229.39 seconds
+Win rate as first player:72.00%, as second player:59.00%
+Iteration 36500 done. Current Explore rate is 0.8332. It takes 9358.06 seconds
+Iteration 37000 done. Current Explore rate is 0.8311. It takes 9481.05 seconds
+Iteration 37500 done. Current Explore rate is 0.8290. It takes 9604.61 seconds
+Iteration 38000 done. Current Explore rate is 0.8270. It takes 9727.77 seconds
+Win rate as first player:64.00%, as second player:62.00%
+Iteration 38500 done. Current Explore rate is 0.8249. It takes 9857.66 seconds
+Iteration 39000 done. Current Explore rate is 0.8228. It takes 9981.08 seconds
+Iteration 39500 done. Current Explore rate is 0.8208. It takes 10104.23 seconds
+Iteration 40000 done. Current Explore rate is 0.8187. It takes 10227.85 seconds
+Win rate as first player:66.00%, as second player:66.00%
+Iteration 40500 done. Current Explore rate is 0.8167. It takes 10356.69 seconds
+Iteration 41000 done. Current Explore rate is 0.8146. It takes 10481.43 seconds
+Iteration 41500 done. Current Explore rate is 0.8126. It takes 10605.36 seconds
+Iteration 42000 done. Current Explore rate is 0.8106. It takes 10730.92 seconds
+Win rate as first player:62.63%, as second player:71.00%
+Iteration 42500 done. Current Explore rate is 0.8086. It takes 10861.35 seconds
+Iteration 43000 done. Current Explore rate is 0.8065. It takes 10985.93 seconds
+Iteration 43500 done. Current Explore rate is 0.8045. It takes 11111.13 seconds
+Iteration 44000 done. Current Explore rate is 0.8025. It takes 11235.75 seconds
+Win rate as first player:68.00%, as second player:62.00%
+Iteration 44500 done. Current Explore rate is 0.8005. It takes 11366.47 seconds
+Iteration 45000 done. Current Explore rate is 0.7985. It takes 11489.98 seconds
+Iteration 45500 done. Current Explore rate is 0.7965. It takes 11613.95 seconds
+Iteration 46000 done. Current Explore rate is 0.7945. It takes 11737.97 seconds
+Win rate as first player:74.00%, as second player:68.00%
+Iteration 46500 done. Current Explore rate is 0.7925. It takes 11868.17 seconds
+Iteration 47000 done. Current Explore rate is 0.7906. It takes 11992.49 seconds
+Iteration 47500 done. Current Explore rate is 0.7886. It takes 12116.04 seconds
+Iteration 48000 done. Current Explore rate is 0.7866. It takes 12240.61 seconds
+Win rate as first player:66.00%, as second player:65.00%
+Iteration 48500 done. Current Explore rate is 0.7847. It takes 12371.63 seconds
+Iteration 49000 done. Current Explore rate is 0.7827. It takes 12496.65 seconds
+Iteration 49500 done. Current Explore rate is 0.7807. It takes 12621.87 seconds
+Iteration 50000 done. Current Explore rate is 0.7788. It takes 12746.02 seconds
+Win rate as first player:66.67%, as second player:58.59%
+Iteration 50500 done. Current Explore rate is 0.7769. It takes 12876.44 seconds
+Iteration 51000 done. Current Explore rate is 0.7749. It takes 13001.73 seconds
+Iteration 51500 done. Current Explore rate is 0.7730. It takes 13126.85 seconds
+Iteration 52000 done. Current Explore rate is 0.7711. It takes 13252.73 seconds
+Win rate as first player:75.00%, as second player:65.00%
+Iteration 52500 done. Current Explore rate is 0.7691. It takes 13383.47 seconds
+Iteration 53000 done. Current Explore rate is 0.7672. It takes 13509.35 seconds
+Iteration 53500 done. Current Explore rate is 0.7653. It takes 13635.55 seconds
+Iteration 54000 done. Current Explore rate is 0.7634. It takes 13762.02 seconds
+Win rate as first player:76.00%, as second player:68.69%
+Iteration 54500 done. Current Explore rate is 0.7615. It takes 13894.14 seconds
+Iteration 55000 done. Current Explore rate is 0.7596. It takes 14020.31 seconds
+Iteration 55500 done. Current Explore rate is 0.7577. It takes 14157.75 seconds
+Iteration 56000 done. Current Explore rate is 0.7558. It takes 14311.93 seconds
+Win rate as first player:75.00%, as second player:71.00%
+Iteration 56500 done. Current Explore rate is 0.7539. It takes 14444.85 seconds
+Iteration 57000 done. Current Explore rate is 0.7520. It takes 14571.89 seconds
+Iteration 57500 done. Current Explore rate is 0.7501. It takes 14698.58 seconds
+Iteration 58000 done. Current Explore rate is 0.7483. It takes 14826.00 seconds
+Win rate as first player:73.00%, as second player:63.00%
+Iteration 58500 done. Current Explore rate is 0.7464. It takes 14958.92 seconds
+Iteration 59000 done. Current Explore rate is 0.7445. It takes 15086.02 seconds
+Iteration 59500 done. Current Explore rate is 0.7427. It takes 15212.82 seconds
+Iteration 60000 done. Current Explore rate is 0.7408. It takes 15339.77 seconds
+Win rate as first player:71.00%, as second player:54.08%
+Iteration 60500 done. Current Explore rate is 0.7390. It takes 15472.72 seconds
+Iteration 61000 done. Current Explore rate is 0.7371. It takes 15599.53 seconds
+Iteration 61500 done. Current Explore rate is 0.7353. It takes 15726.79 seconds
+Iteration 62000 done. Current Explore rate is 0.7334. It takes 15853.89 seconds
+Win rate as first player:58.00%, as second player:60.61%
+Iteration 62500 done. Current Explore rate is 0.7316. It takes 15987.02 seconds
+Iteration 63000 done. Current Explore rate is 0.7298. It takes 16115.69 seconds
+Iteration 63500 done. Current Explore rate is 0.7280. It takes 16243.61 seconds
+Iteration 64000 done. Current Explore rate is 0.7261. It takes 16371.99 seconds
+Win rate as first player:71.00%, as second player:59.00%
+Iteration 64500 done. Current Explore rate is 0.7243. It takes 16505.24 seconds
+Iteration 65000 done. Current Explore rate is 0.7225. It takes 16633.44 seconds
+Iteration 65500 done. Current Explore rate is 0.7207. It takes 16762.05 seconds
+Iteration 66000 done. Current Explore rate is 0.7189. It takes 16890.06 seconds
+Win rate as first player:69.00%, as second player:63.00%
+Iteration 66500 done. Current Explore rate is 0.7171. It takes 17025.31 seconds
+Iteration 67000 done. Current Explore rate is 0.7153. It takes 17153.78 seconds
+Iteration 67500 done. Current Explore rate is 0.7136. It takes 17282.07 seconds
+Iteration 68000 done. Current Explore rate is 0.7118. It takes 17409.92 seconds
+Win rate as first player:75.00%, as second player:73.00%
+Iteration 68500 done. Current Explore rate is 0.7100. It takes 17544.83 seconds
+Iteration 69000 done. Current Explore rate is 0.7082. It takes 17672.90 seconds
+Iteration 69500 done. Current Explore rate is 0.7065. It takes 17801.15 seconds
+Iteration 70000 done. Current Explore rate is 0.7047. It takes 17930.51 seconds
+Win rate as first player:75.00%, as second player:64.00%
+Iteration 70500 done. Current Explore rate is 0.7029. It takes 18064.11 seconds
+Iteration 71000 done. Current Explore rate is 0.7012. It takes 18192.12 seconds
+Iteration 71500 done. Current Explore rate is 0.6994. It takes 18320.36 seconds
+Iteration 72000 done. Current Explore rate is 0.6977. It takes 18449.27 seconds
+Win rate as first player:67.00%, as second player:64.65%
+Iteration 72500 done. Current Explore rate is 0.6959. It takes 18584.83 seconds
+Iteration 73000 done. Current Explore rate is 0.6942. It takes 18714.22 seconds
+Iteration 73500 done. Current Explore rate is 0.6925. It takes 18843.74 seconds
+Iteration 74000 done. Current Explore rate is 0.6907. It takes 18973.50 seconds
+Win rate as first player:81.00%, as second player:61.00%
+Iteration 74500 done. Current Explore rate is 0.6890. It takes 19108.78 seconds
+Iteration 75000 done. Current Explore rate is 0.6873. It takes 19238.15 seconds
+Iteration 75500 done. Current Explore rate is 0.6856. It takes 19367.43 seconds
+Iteration 76000 done. Current Explore rate is 0.6839. It takes 19497.99 seconds
+Win rate as first player:76.00%, as second player:73.00%
+Iteration 76500 done. Current Explore rate is 0.6822. It takes 19633.12 seconds
+Iteration 77000 done. Current Explore rate is 0.6804. It takes 19763.46 seconds
+Iteration 77500 done. Current Explore rate is 0.6788. It takes 19893.56 seconds
+Iteration 78000 done. Current Explore rate is 0.6771. It takes 20023.25 seconds
+Win rate as first player:86.87%, as second player:73.00%
+Iteration 78500 done. Current Explore rate is 0.6754. It takes 20158.49 seconds
+Iteration 79000 done. Current Explore rate is 0.6737. It takes 20288.30 seconds
+Iteration 79500 done. Current Explore rate is 0.6720. It takes 20417.70 seconds
+Iteration 80000 done. Current Explore rate is 0.6703. It takes 20547.50 seconds
+Win rate as first player:80.00%, as second player:69.00%
+Iteration 80500 done. Current Explore rate is 0.6686. It takes 20683.07 seconds
+Iteration 81000 done. Current Explore rate is 0.6670. It takes 20813.76 seconds
+Iteration 81500 done. Current Explore rate is 0.6653. It takes 20943.70 seconds
+Iteration 82000 done. Current Explore rate is 0.6636. It takes 21073.37 seconds
+Win rate as first player:80.00%, as second player:75.00%
+Iteration 82500 done. Current Explore rate is 0.6620. It takes 21208.06 seconds
+Iteration 83000 done. Current Explore rate is 0.6603. It takes 21336.95 seconds
+Iteration 83500 done. Current Explore rate is 0.6587. It takes 21467.10 seconds
+Iteration 84000 done. Current Explore rate is 0.6570. It takes 21596.23 seconds
+Win rate as first player:72.00%, as second player:64.00%
+Iteration 84500 done. Current Explore rate is 0.6554. It takes 21731.33 seconds
+Iteration 85000 done. Current Explore rate is 0.6538. It takes 21860.27 seconds
+Iteration 85500 done. Current Explore rate is 0.6521. It takes 21989.00 seconds
+Iteration 86000 done. Current Explore rate is 0.6505. It takes 22118.16 seconds
+Win rate as first player:74.00%, as second player:75.00%
+Iteration 86500 done. Current Explore rate is 0.6489. It takes 22253.95 seconds
+Iteration 87000 done. Current Explore rate is 0.6473. It takes 22383.69 seconds
+Iteration 87500 done. Current Explore rate is 0.6456. It takes 22512.51 seconds
+Iteration 88000 done. Current Explore rate is 0.6440. It takes 22642.03 seconds
+Win rate as first player:75.00%, as second player:61.00%
+Iteration 88500 done. Current Explore rate is 0.6424. It takes 22777.74 seconds
+Iteration 89000 done. Current Explore rate is 0.6408. It takes 22907.48 seconds
+Iteration 89500 done. Current Explore rate is 0.6392. It takes 23037.22 seconds
+Iteration 90000 done. Current Explore rate is 0.6376. It takes 23165.89 seconds
+Win rate as first player:70.00%, as second player:71.00%
+Iteration 90500 done. Current Explore rate is 0.6360. It takes 23302.46 seconds
+Iteration 91000 done. Current Explore rate is 0.6344. It takes 23432.84 seconds
+Iteration 91500 done. Current Explore rate is 0.6329. It takes 23563.81 seconds
+Iteration 92000 done. Current Explore rate is 0.6313. It takes 23695.53 seconds
+Win rate as first player:80.00%, as second player:75.00%
+Iteration 92500 done. Current Explore rate is 0.6297. It takes 23833.23 seconds
+Iteration 93000 done. Current Explore rate is 0.6281. It takes 23964.54 seconds
+Iteration 93500 done. Current Explore rate is 0.6266. It takes 24095.26 seconds
+Iteration 94000 done. Current Explore rate is 0.6250. It takes 24226.83 seconds
+Win rate as first player:75.00%, as second player:73.00%
+Iteration 94500 done. Current Explore rate is 0.6234. It takes 24364.16 seconds
+Iteration 95000 done. Current Explore rate is 0.6219. It takes 24495.87 seconds
+Iteration 95500 done. Current Explore rate is 0.6203. It takes 24627.25 seconds
+Iteration 96000 done. Current Explore rate is 0.6188. It takes 24758.70 seconds
+Win rate as first player:80.00%, as second player:66.00%
+Iteration 96500 done. Current Explore rate is 0.6172. It takes 24896.97 seconds
+Iteration 97000 done. Current Explore rate is 0.6157. It takes 25029.46 seconds
+Iteration 97500 done. Current Explore rate is 0.6142. It takes 25161.46 seconds
+Iteration 98000 done. Current Explore rate is 0.6126. It takes 25292.06 seconds
+Win rate as first player:83.00%, as second player:71.00%
+Iteration 98500 done. Current Explore rate is 0.6111. It takes 25428.42 seconds
+Iteration 99000 done. Current Explore rate is 0.6096. It takes 25561.47 seconds
+Iteration 99500 done. Current Explore rate is 0.6080. It takes 25694.29 seconds
+Iteration 100000 done. Current Explore rate is 0.6065. It takes 25827.64 seconds
+Win rate as first player:75.76%, as second player:76.00%
+Iteration 100500 done. Current Explore rate is 0.6050. It takes 25966.83 seconds
+Iteration 101000 done. Current Explore rate is 0.6035. It takes 26100.27 seconds
+Iteration 101500 done. Current Explore rate is 0.6020. It takes 26233.28 seconds
+Iteration 102000 done. Current Explore rate is 0.6005. It takes 26365.74 seconds
+Win rate as first player:79.00%, as second player:72.00%
+Iteration 102500 done. Current Explore rate is 0.5990. It takes 26504.79 seconds
+Iteration 103000 done. Current Explore rate is 0.5975. It takes 26638.47 seconds
+Iteration 103500 done. Current Explore rate is 0.5960. It takes 26771.93 seconds
+Iteration 104000 done. Current Explore rate is 0.5945. It takes 26905.17 seconds
+Win rate as first player:79.00%, as second player:74.00%
+Iteration 104500 done. Current Explore rate is 0.5930. It takes 27102.83 seconds
+Iteration 105000 done. Current Explore rate is 0.5916. It takes 27240.73 seconds
+Iteration 105500 done. Current Explore rate is 0.5901. It takes 27374.60 seconds
+Iteration 106000 done. Current Explore rate is 0.5886. It takes 27508.80 seconds
+Win rate as first player:77.00%, as second player:74.00%
+Iteration 106500 done. Current Explore rate is 0.5871. It takes 27648.93 seconds
+Iteration 107000 done. Current Explore rate is 0.5857. It takes 27783.09 seconds
+Iteration 107500 done. Current Explore rate is 0.5842. It takes 27916.81 seconds
+Iteration 108000 done. Current Explore rate is 0.5827. It takes 28051.05 seconds
+Win rate as first player:79.00%, as second player:68.00%
+Iteration 108500 done. Current Explore rate is 0.5813. It takes 28189.46 seconds
+Iteration 109000 done. Current Explore rate is 0.5798. It takes 28322.66 seconds
+Iteration 109500 done. Current Explore rate is 0.5784. It takes 28457.26 seconds
+Iteration 110000 done. Current Explore rate is 0.5769. It takes 28592.35 seconds
+Win rate as first player:86.00%, as second player:72.73%
+Iteration 110500 done. Current Explore rate is 0.5755. It takes 28733.18 seconds
+Iteration 111000 done. Current Explore rate is 0.5741. It takes 28867.57 seconds
+Iteration 111500 done. Current Explore rate is 0.5726. It takes 29000.20 seconds
+Iteration 112000 done. Current Explore rate is 0.5712. It takes 29134.99 seconds
+Win rate as first player:77.00%, as second player:76.00%
+Iteration 112500 done. Current Explore rate is 0.5698. It takes 29275.50 seconds
+Iteration 113000 done. Current Explore rate is 0.5684. It takes 29409.45 seconds
+Iteration 113500 done. Current Explore rate is 0.5669. It takes 29544.75 seconds
+Iteration 114000 done. Current Explore rate is 0.5655. It takes 29679.75 seconds
+Win rate as first player:71.72%, as second player:77.00%
+Iteration 114500 done. Current Explore rate is 0.5641. It takes 29821.44 seconds
+Iteration 115000 done. Current Explore rate is 0.5627. It takes 29956.10 seconds
+Iteration 115500 done. Current Explore rate is 0.5613. It takes 30091.64 seconds
+Iteration 116000 done. Current Explore rate is 0.5599. It takes 30228.47 seconds
+Win rate as first player:83.00%, as second player:69.00%
+Iteration 116500 done. Current Explore rate is 0.5585. It takes 30369.16 seconds
+Iteration 117000 done. Current Explore rate is 0.5571. It takes 30505.74 seconds
+Iteration 117500 done. Current Explore rate is 0.5557. It takes 30642.40 seconds
+Iteration 118000 done. Current Explore rate is 0.5543. It takes 30778.66 seconds
+Win rate as first player:83.00%, as second player:75.00%
+Iteration 118500 done. Current Explore rate is 0.5529. It takes 30920.96 seconds
+Iteration 119000 done. Current Explore rate is 0.5516. It takes 31057.32 seconds
+Iteration 119500 done. Current Explore rate is 0.5502. It takes 31193.14 seconds
+Iteration 120000 done. Current Explore rate is 0.5488. It takes 31329.29 seconds
+Win rate as first player:79.00%, as second player:65.00%
+Iteration 120500 done. Current Explore rate is 0.5474. It takes 31470.44 seconds
+Iteration 121000 done. Current Explore rate is 0.5461. It takes 31606.67 seconds
+Iteration 121500 done. Current Explore rate is 0.5447. It takes 31742.75 seconds
+Iteration 122000 done. Current Explore rate is 0.5434. It takes 31880.09 seconds
+Win rate as first player:68.00%, as second player:63.00%
+Iteration 122500 done. Current Explore rate is 0.5420. It takes 32021.47 seconds
+Iteration 123000 done. Current Explore rate is 0.5406. It takes 32159.55 seconds
+Iteration 123500 done. Current Explore rate is 0.5393. It takes 32297.78 seconds
+Iteration 124000 done. Current Explore rate is 0.5379. It takes 32436.20 seconds
+Win rate as first player:79.00%, as second player:79.00%
+Iteration 124500 done. Current Explore rate is 0.5366. It takes 32578.68 seconds
+Iteration 125000 done. Current Explore rate is 0.5353. It takes 32714.20 seconds
+Iteration 125500 done. Current Explore rate is 0.5339. It takes 32851.37 seconds
+Iteration 126000 done. Current Explore rate is 0.5326. It takes 32988.42 seconds
+Win rate as first player:75.00%, as second player:71.00%
+Iteration 126500 done. Current Explore rate is 0.5313. It takes 33130.88 seconds
+Iteration 127000 done. Current Explore rate is 0.5299. It takes 33268.28 seconds
+Iteration 127500 done. Current Explore rate is 0.5286. It takes 33405.98 seconds
+Iteration 128000 done. Current Explore rate is 0.5273. It takes 33542.84 seconds
+Win rate as first player:79.00%, as second player:75.00%
+Iteration 128500 done. Current Explore rate is 0.5260. It takes 33685.39 seconds
+Iteration 129000 done. Current Explore rate is 0.5247. It takes 33822.73 seconds
+Iteration 129500 done. Current Explore rate is 0.5234. It takes 33960.18 seconds
+Iteration 130000 done. Current Explore rate is 0.5220. It takes 34097.56 seconds
+Win rate as first player:83.84%, as second player:73.00%
+Iteration 130500 done. Current Explore rate is 0.5207. It takes 34240.61 seconds
+Iteration 131000 done. Current Explore rate is 0.5194. It takes 34377.21 seconds
+Iteration 131500 done. Current Explore rate is 0.5181. It takes 34514.88 seconds
+Iteration 132000 done. Current Explore rate is 0.5169. It takes 34652.49 seconds
+Win rate as first player:79.00%, as second player:66.67%
+Iteration 132500 done. Current Explore rate is 0.5156. It takes 34795.80 seconds
+Iteration 133000 done. Current Explore rate is 0.5143. It takes 34933.67 seconds
+Iteration 133500 done. Current Explore rate is 0.5130. It takes 35070.74 seconds
+Iteration 134000 done. Current Explore rate is 0.5117. It takes 35208.09 seconds
+Win rate as first player:79.00%, as second player:78.00%
+Iteration 134500 done. Current Explore rate is 0.5104. It takes 35350.60 seconds
+Iteration 135000 done. Current Explore rate is 0.5092. It takes 35488.28 seconds
+Iteration 135500 done. Current Explore rate is 0.5079. It takes 35623.92 seconds
+Iteration 136000 done. Current Explore rate is 0.5066. It takes 35761.24 seconds
+Win rate as first player:83.00%, as second player:82.00%
+Iteration 136500 done. Current Explore rate is 0.5054. It takes 35905.43 seconds
+Iteration 137000 done. Current Explore rate is 0.5041. It takes 36042.35 seconds
+Iteration 137500 done. Current Explore rate is 0.5028. It takes 36180.04 seconds
+Iteration 138000 done. Current Explore rate is 0.5016. It takes 36316.92 seconds
+Win rate as first player:78.79%, as second player:73.00%
+Iteration 138500 done. Current Explore rate is 0.5003. It takes 36459.57 seconds
+Iteration 139000 done. Current Explore rate is 0.4991. It takes 36596.77 seconds
+Iteration 139500 done. Current Explore rate is 0.4978. It takes 36733.60 seconds
+Iteration 140000 done. Current Explore rate is 0.4966. It takes 36871.81 seconds
+Win rate as first player:83.00%, as second player:80.00%
+Iteration 140500 done. Current Explore rate is 0.4953. It takes 37014.41 seconds
+Iteration 141000 done. Current Explore rate is 0.4941. It takes 37151.43 seconds
+Iteration 141500 done. Current Explore rate is 0.4929. It takes 37288.51 seconds
+Iteration 142000 done. Current Explore rate is 0.4916. It takes 37425.80 seconds
+Win rate as first player:82.00%, as second player:68.69%
+Iteration 142500 done. Current Explore rate is 0.4904. It takes 37569.97 seconds
+Iteration 143000 done. Current Explore rate is 0.4892. It takes 37707.73 seconds
+Iteration 143500 done. Current Explore rate is 0.4880. It takes 37846.13 seconds
+Iteration 144000 done. Current Explore rate is 0.4868. It takes 37984.01 seconds
+Win rate as first player:80.81%, as second player:72.00%
+Iteration 144500 done. Current Explore rate is 0.4855. It takes 38127.92 seconds
+Iteration 145000 done. Current Explore rate is 0.4843. It takes 38266.66 seconds
+Iteration 145500 done. Current Explore rate is 0.4831. It takes 38405.71 seconds
+Iteration 146000 done. Current Explore rate is 0.4819. It takes 38544.19 seconds
+Win rate as first player:78.00%, as second player:73.00%
+Iteration 146500 done. Current Explore rate is 0.4807. It takes 38687.64 seconds
+Iteration 147000 done. Current Explore rate is 0.4795. It takes 38825.64 seconds
+Iteration 147500 done. Current Explore rate is 0.4783. It takes 38964.46 seconds
+Iteration 148000 done. Current Explore rate is 0.4771. It takes 39102.76 seconds
+Win rate as first player:85.00%, as second player:77.00%
+Iteration 148500 done. Current Explore rate is 0.4759. It takes 39248.02 seconds
+Iteration 149000 done. Current Explore rate is 0.4747. It takes 39385.63 seconds
+Iteration 149500 done. Current Explore rate is 0.4735. It takes 39524.34 seconds
+Iteration 150000 done. Current Explore rate is 0.4724. It takes 39663.50 seconds
+Win rate as first player:81.00%, as second player:77.00%
+Iteration 150500 done. Current Explore rate is 0.4712. It takes 39807.97 seconds
+Iteration 151000 done. Current Explore rate is 0.4700. It takes 39946.04 seconds
+Iteration 151500 done. Current Explore rate is 0.4688. It takes 40084.71 seconds
+Iteration 152000 done. Current Explore rate is 0.4677. It takes 40224.40 seconds
+Win rate as first player:79.00%, as second player:79.00%
+Iteration 152500 done. Current Explore rate is 0.4665. It takes 40369.55 seconds
+Iteration 153000 done. Current Explore rate is 0.4653. It takes 40509.45 seconds
+Iteration 153500 done. Current Explore rate is 0.4642. It takes 40649.09 seconds
+Iteration 154000 done. Current Explore rate is 0.4630. It takes 40787.05 seconds
+Win rate as first player:81.00%, as second player:70.00%
+Iteration 154500 done. Current Explore rate is 0.4619. It takes 40931.67 seconds
+Iteration 155000 done. Current Explore rate is 0.4607. It takes 41071.27 seconds
+Iteration 155500 done. Current Explore rate is 0.4596. It takes 41211.48 seconds
+Iteration 156000 done. Current Explore rate is 0.4584. It takes 41351.23 seconds
+Win rate as first player:80.00%, as second player:79.80%
+Iteration 156500 done. Current Explore rate is 0.4573. It takes 41496.00 seconds
+Iteration 157000 done. Current Explore rate is 0.4561. It takes 41636.93 seconds
+Iteration 157500 done. Current Explore rate is 0.4550. It takes 41774.48 seconds
+Iteration 158000 done. Current Explore rate is 0.4538. It takes 41914.28 seconds
+Win rate as first player:80.00%, as second player:79.00%
+Iteration 158500 done. Current Explore rate is 0.4527. It takes 42059.30 seconds
+Iteration 159000 done. Current Explore rate is 0.4516. It takes 42198.54 seconds
+Iteration 159500 done. Current Explore rate is 0.4505. It takes 42337.76 seconds
+Iteration 160000 done. Current Explore rate is 0.4493. It takes 42476.91 seconds
+Win rate as first player:80.00%, as second player:70.00%
+Iteration 160500 done. Current Explore rate is 0.4482. It takes 42621.94 seconds
+Iteration 161000 done. Current Explore rate is 0.4471. It takes 42762.90 seconds
+Iteration 161500 done. Current Explore rate is 0.4460. It takes 42904.97 seconds
+Iteration 162000 done. Current Explore rate is 0.4449. It takes 43045.06 seconds
+Win rate as first player:84.85%, as second player:72.00%
+Iteration 162500 done. Current Explore rate is 0.4437. It takes 43189.96 seconds
+Iteration 163000 done. Current Explore rate is 0.4426. It takes 43331.27 seconds
+Iteration 163500 done. Current Explore rate is 0.4415. It takes 43471.95 seconds
+Iteration 164000 done. Current Explore rate is 0.4404. It takes 43612.71 seconds
+Win rate as first player:78.00%, as second player:74.00%
+Iteration 164500 done. Current Explore rate is 0.4393. It takes 43758.53 seconds
+Iteration 165000 done. Current Explore rate is 0.4382. It takes 43898.91 seconds
+Iteration 165500 done. Current Explore rate is 0.4371. It takes 44039.00 seconds
+Iteration 166000 done. Current Explore rate is 0.4360. It takes 44178.31 seconds
+Win rate as first player:84.00%, as second player:71.00%
+Iteration 166500 done. Current Explore rate is 0.4350. It takes 44323.79 seconds
+Iteration 167000 done. Current Explore rate is 0.4339. It takes 44464.28 seconds
+Iteration 167500 done. Current Explore rate is 0.4328. It takes 44605.06 seconds
+Iteration 168000 done. Current Explore rate is 0.4317. It takes 44746.46 seconds
+Win rate as first player:89.00%, as second player:73.00%
+Iteration 168500 done. Current Explore rate is 0.4306. It takes 44891.94 seconds
+Iteration 169000 done. Current Explore rate is 0.4296. It takes 45032.09 seconds
+Iteration 169500 done. Current Explore rate is 0.4285. It takes 45172.01 seconds
+Iteration 170000 done. Current Explore rate is 0.4274. It takes 45313.12 seconds
+Win rate as first player:75.00%, as second player:79.00%
+Iteration 170500 done. Current Explore rate is 0.4263. It takes 45458.50 seconds
+Iteration 171000 done. Current Explore rate is 0.4253. It takes 45598.77 seconds
+Iteration 171500 done. Current Explore rate is 0.4242. It takes 45738.96 seconds
+Iteration 172000 done. Current Explore rate is 0.4232. It takes 45878.96 seconds
+Win rate as first player:84.00%, as second player:75.00%
+Iteration 172500 done. Current Explore rate is 0.4221. It takes 46024.89 seconds
+Iteration 173000 done. Current Explore rate is 0.4211. It takes 46165.81 seconds
+Iteration 173500 done. Current Explore rate is 0.4200. It takes 46306.67 seconds
+Iteration 174000 done. Current Explore rate is 0.4190. It takes 46447.58 seconds
+Win rate as first player:87.00%, as second player:85.00%
+Iteration 174500 done. Current Explore rate is 0.4179. It takes 46592.82 seconds
+Iteration 175000 done. Current Explore rate is 0.4169. It takes 46734.35 seconds
+Iteration 175500 done. Current Explore rate is 0.4158. It takes 46875.52 seconds
+Iteration 176000 done. Current Explore rate is 0.4148. It takes 47016.83 seconds
+Win rate as first player:85.00%, as second player:80.00%
+Iteration 176500 done. Current Explore rate is 0.4137. It takes 47162.94 seconds
+Iteration 177000 done. Current Explore rate is 0.4127. It takes 47303.93 seconds
+Iteration 177500 done. Current Explore rate is 0.4117. It takes 47445.26 seconds
+Iteration 178000 done. Current Explore rate is 0.4107. It takes 47586.09 seconds
+Win rate as first player:75.00%, as second player:76.00%
+Iteration 178500 done. Current Explore rate is 0.4096. It takes 47732.34 seconds
+Iteration 179000 done. Current Explore rate is 0.4086. It takes 47873.19 seconds
+Iteration 179500 done. Current Explore rate is 0.4076. It takes 48014.46 seconds
+Iteration 180000 done. Current Explore rate is 0.4066. It takes 48155.45 seconds
+Win rate as first player:86.00%, as second player:78.57%
+Iteration 180500 done. Current Explore rate is 0.4056. It takes 48300.58 seconds
+Iteration 181000 done. Current Explore rate is 0.4045. It takes 48440.90 seconds
+Iteration 181500 done. Current Explore rate is 0.4035. It takes 48580.73 seconds
+Iteration 182000 done. Current Explore rate is 0.4025. It takes 48722.23 seconds
+Win rate as first player:80.00%, as second player:75.00%
+Iteration 182500 done. Current Explore rate is 0.4015. It takes 48868.06 seconds
+Iteration 183000 done. Current Explore rate is 0.4005. It takes 49008.58 seconds
+Iteration 183500 done. Current Explore rate is 0.3995. It takes 49151.66 seconds
+Iteration 184000 done. Current Explore rate is 0.3985. It takes 49293.41 seconds
+Win rate as first player:85.00%, as second player:73.00%
+Iteration 184500 done. Current Explore rate is 0.3975. It takes 49440.47 seconds
+Iteration 185000 done. Current Explore rate is 0.3965. It takes 49583.06 seconds
+Iteration 185500 done. Current Explore rate is 0.3955. It takes 49724.00 seconds
+Iteration 186000 done. Current Explore rate is 0.3946. It takes 49864.61 seconds
+Win rate as first player:88.00%, as second player:84.00%
+Iteration 186500 done. Current Explore rate is 0.3936. It takes 50011.49 seconds
+Iteration 187000 done. Current Explore rate is 0.3926. It takes 50154.57 seconds
+Iteration 187500 done. Current Explore rate is 0.3916. It takes 50296.66 seconds
+Iteration 188000 done. Current Explore rate is 0.3906. It takes 50439.49 seconds
+Win rate as first player:88.00%, as second player:82.00%
+Iteration 188500 done. Current Explore rate is 0.3897. It takes 50586.62 seconds
+Iteration 189000 done. Current Explore rate is 0.3887. It takes 50728.13 seconds
+Iteration 189500 done. Current Explore rate is 0.3877. It takes 50870.49 seconds
+Iteration 190000 done. Current Explore rate is 0.3867. It takes 51012.53 seconds
+Win rate as first player:89.00%, as second player:77.00%
+Iteration 190500 done. Current Explore rate is 0.3858. It takes 51158.36 seconds
+Iteration 191000 done. Current Explore rate is 0.3848. It takes 51298.76 seconds
+Iteration 191500 done. Current Explore rate is 0.3839. It takes 51439.18 seconds
+Iteration 192000 done. Current Explore rate is 0.3829. It takes 51579.48 seconds
+Win rate as first player:88.00%, as second player:80.00%
+Iteration 192500 done. Current Explore rate is 0.3819. It takes 51724.64 seconds
+Iteration 193000 done. Current Explore rate is 0.3810. It takes 51865.58 seconds
+Iteration 193500 done. Current Explore rate is 0.3800. It takes 52006.01 seconds
+Iteration 194000 done. Current Explore rate is 0.3791. It takes 52147.83 seconds
+Win rate as first player:85.00%, as second player:79.00%
+Iteration 194500 done. Current Explore rate is 0.3781. It takes 52294.80 seconds
+Iteration 195000 done. Current Explore rate is 0.3772. It takes 52436.81 seconds
+Iteration 195500 done. Current Explore rate is 0.3762. It takes 52578.81 seconds
+Iteration 196000 done. Current Explore rate is 0.3753. It takes 52719.93 seconds
+Win rate as first player:80.81%, as second player:89.00%
+Iteration 196500 done. Current Explore rate is 0.3744. It takes 52867.28 seconds
+Iteration 197000 done. Current Explore rate is 0.3734. It takes 53009.33 seconds
+Iteration 197500 done. Current Explore rate is 0.3725. It takes 53151.91 seconds
+Iteration 198000 done. Current Explore rate is 0.3716. It takes 53294.15 seconds
+Win rate as first player:85.00%, as second player:84.00%
+Iteration 198500 done. Current Explore rate is 0.3706. It takes 53441.26 seconds
+Iteration 199000 done. Current Explore rate is 0.3697. It takes 53584.41 seconds
+Iteration 199500 done. Current Explore rate is 0.3688. It takes 53725.34 seconds
+Iteration 200000 done. Current Explore rate is 0.3679. It takes 53866.08 seconds
+Win rate as first player:91.00%, as second player:86.00%
+Iteration 200500 done. Current Explore rate is 0.3670. It takes 54012.65 seconds
+Iteration 201000 done. Current Explore rate is 0.3660. It takes 54154.35 seconds
+Iteration 201500 done. Current Explore rate is 0.3651. It takes 54295.05 seconds
+Iteration 202000 done. Current Explore rate is 0.3642. It takes 54436.64 seconds
+Win rate as first player:93.00%, as second player:87.00%
+Iteration 202500 done. Current Explore rate is 0.3633. It takes 54583.46 seconds
+Iteration 203000 done. Current Explore rate is 0.3624. It takes 54724.30 seconds
+Iteration 203500 done. Current Explore rate is 0.3615. It takes 54865.39 seconds
+Iteration 204000 done. Current Explore rate is 0.3606. It takes 55007.97 seconds
+Win rate as first player:86.00%, as second player:87.00%
+Iteration 204500 done. Current Explore rate is 0.3597. It takes 55154.29 seconds
+Iteration 205000 done. Current Explore rate is 0.3588. It takes 55296.85 seconds
+Iteration 205500 done. Current Explore rate is 0.3579. It takes 55439.99 seconds
+Iteration 206000 done. Current Explore rate is 0.3570. It takes 55582.82 seconds
+Win rate as first player:87.00%, as second player:82.00%
+Iteration 206500 done. Current Explore rate is 0.3561. It takes 55731.39 seconds
+Iteration 207000 done. Current Explore rate is 0.3552. It takes 55874.75 seconds
+Iteration 207500 done. Current Explore rate is 0.3543. It takes 56017.89 seconds
+Iteration 208000 done. Current Explore rate is 0.3535. It takes 56160.35 seconds
+Win rate as first player:96.00%, as second player:91.00%
+Iteration 208500 done. Current Explore rate is 0.3526. It takes 56307.44 seconds
+Iteration 209000 done. Current Explore rate is 0.3517. It takes 56449.59 seconds
+Iteration 209500 done. Current Explore rate is 0.3508. It takes 56590.87 seconds
+Iteration 210000 done. Current Explore rate is 0.3499. It takes 56732.87 seconds
+Win rate as first player:81.00%, as second player:86.00%
+Iteration 210500 done. Current Explore rate is 0.3491. It takes 56880.54 seconds
+Iteration 211000 done. Current Explore rate is 0.3482. It takes 57024.71 seconds
+Iteration 211500 done. Current Explore rate is 0.3473. It takes 57169.30 seconds
+Iteration 212000 done. Current Explore rate is 0.3465. It takes 57313.65 seconds
+Win rate as first player:84.00%, as second player:89.00%
+Iteration 212500 done. Current Explore rate is 0.3456. It takes 57461.80 seconds
+Iteration 213000 done. Current Explore rate is 0.3447. It takes 57603.92 seconds
+Iteration 213500 done. Current Explore rate is 0.3439. It takes 57745.97 seconds
+Iteration 214000 done. Current Explore rate is 0.3430. It takes 57888.07 seconds
+Win rate as first player:96.00%, as second player:90.00%
+Iteration 214500 done. Current Explore rate is 0.3422. It takes 58034.94 seconds
+Iteration 215000 done. Current Explore rate is 0.3413. It takes 58177.62 seconds
+Iteration 215500 done. Current Explore rate is 0.3404. It takes 58320.65 seconds
+Iteration 216000 done. Current Explore rate is 0.3396. It takes 58464.60 seconds
+Win rate as first player:84.00%, as second player:77.00%
+Iteration 216500 done. Current Explore rate is 0.3387. It takes 58611.74 seconds
+Iteration 217000 done. Current Explore rate is 0.3379. It takes 58753.14 seconds
+Iteration 217500 done. Current Explore rate is 0.3371. It takes 58894.68 seconds
+Iteration 218000 done. Current Explore rate is 0.3362. It takes 59036.02 seconds
+Win rate as first player:93.00%, as second player:91.00%
+Iteration 218500 done. Current Explore rate is 0.3354. It takes 59181.91 seconds
+Iteration 219000 done. Current Explore rate is 0.3345. It takes 59324.04 seconds
+Iteration 219500 done. Current Explore rate is 0.3337. It takes 59466.61 seconds
+Iteration 220000 done. Current Explore rate is 0.3329. It takes 59609.84 seconds
+Win rate as first player:90.00%, as second player:81.00%
+Iteration 220500 done. Current Explore rate is 0.3320. It takes 59756.66 seconds
+Iteration 221000 done. Current Explore rate is 0.3312. It takes 59899.72 seconds
+Iteration 221500 done. Current Explore rate is 0.3304. It takes 60041.90 seconds
+Iteration 222000 done. Current Explore rate is 0.3296. It takes 60182.82 seconds
+Win rate as first player:95.00%, as second player:86.00%
+Iteration 222500 done. Current Explore rate is 0.3287. It takes 60327.91 seconds
+Iteration 223000 done. Current Explore rate is 0.3279. It takes 60469.67 seconds
+Iteration 223500 done. Current Explore rate is 0.3271. It takes 60611.38 seconds
+Iteration 224000 done. Current Explore rate is 0.3263. It takes 60753.21 seconds
+Win rate as first player:94.00%, as second player:90.00%
+Iteration 224500 done. Current Explore rate is 0.3255. It takes 60901.83 seconds
+Iteration 225000 done. Current Explore rate is 0.3247. It takes 61045.66 seconds
+Iteration 225500 done. Current Explore rate is 0.3238. It takes 61189.30 seconds
+Iteration 226000 done. Current Explore rate is 0.3230. It takes 61331.06 seconds
+Win rate as first player:95.00%, as second player:87.00%
+Iteration 226500 done. Current Explore rate is 0.3222. It takes 61475.64 seconds
+Iteration 227000 done. Current Explore rate is 0.3214. It takes 61616.48 seconds
+Iteration 227500 done. Current Explore rate is 0.3206. It takes 61757.05 seconds
+Iteration 228000 done. Current Explore rate is 0.3198. It takes 61899.49 seconds
+Win rate as first player:92.00%, as second player:87.00%
+Iteration 228500 done. Current Explore rate is 0.3190. It takes 62045.93 seconds
+Iteration 229000 done. Current Explore rate is 0.3182. It takes 62188.74 seconds
+Iteration 229500 done. Current Explore rate is 0.3174. It takes 62331.49 seconds
+Iteration 230000 done. Current Explore rate is 0.3166. It takes 62473.56 seconds
+Win rate as first player:96.00%, as second player:90.00%
+Iteration 230500 done. Current Explore rate is 0.3158. It takes 62618.02 seconds
+Iteration 231000 done. Current Explore rate is 0.3151. It takes 62758.63 seconds
+Iteration 231500 done. Current Explore rate is 0.3143. It takes 62898.84 seconds
+Iteration 232000 done. Current Explore rate is 0.3135. It takes 63039.57 seconds
+Win rate as first player:93.00%, as second player:94.00%
+Iteration 232500 done. Current Explore rate is 0.3127. It takes 63183.18 seconds
+Iteration 233000 done. Current Explore rate is 0.3119. It takes 63324.15 seconds
+Iteration 233500 done. Current Explore rate is 0.3111. It takes 63464.10 seconds
+Iteration 234000 done. Current Explore rate is 0.3104. It takes 63604.88 seconds
+Win rate as first player:97.00%, as second player:91.00%
+Iteration 234500 done. Current Explore rate is 0.3096. It takes 63748.05 seconds
+Iteration 235000 done. Current Explore rate is 0.3088. It takes 63887.76 seconds
+Iteration 235500 done. Current Explore rate is 0.3080. It takes 64028.10 seconds
+Iteration 236000 done. Current Explore rate is 0.3073. It takes 64167.98 seconds
+Win rate as first player:95.00%, as second player:95.96%
+Iteration 236500 done. Current Explore rate is 0.3065. It takes 64311.54 seconds
+Iteration 237000 done. Current Explore rate is 0.3057. It takes 64450.38 seconds
+Iteration 237500 done. Current Explore rate is 0.3050. It takes 64589.16 seconds
+Iteration 238000 done. Current Explore rate is 0.3042. It takes 64729.90 seconds
+Win rate as first player:99.00%, as second player:98.00%
+Iteration 238500 done. Current Explore rate is 0.3035. It takes 64870.98 seconds
+Iteration 239000 done. Current Explore rate is 0.3027. It takes 65010.19 seconds
+Iteration 239500 done. Current Explore rate is 0.3019. It takes 65148.57 seconds
+Iteration 240000 done. Current Explore rate is 0.3012. It takes 65287.60 seconds
+Win rate as first player:98.00%, as second player:97.00%
+Iteration 240500 done. Current Explore rate is 0.3004. It takes 65431.49 seconds
+Iteration 241000 done. Current Explore rate is 0.2997. It takes 65572.30 seconds
+Iteration 241500 done. Current Explore rate is 0.2989. It takes 65712.77 seconds
+Iteration 242000 done. Current Explore rate is 0.2982. It takes 65856.63 seconds
+Win rate as first player:97.00%, as second player:99.00%
+Iteration 242500 done. Current Explore rate is 0.2975. It takes 66001.90 seconds
+Iteration 243000 done. Current Explore rate is 0.2967. It takes 66142.94 seconds
+Iteration 243500 done. Current Explore rate is 0.2960. It takes 66289.44 seconds
+Iteration 244000 done. Current Explore rate is 0.2952. It takes 66433.80 seconds
+Win rate as first player:99.00%, as second player:100.00%
+Iteration 244500 done. Current Explore rate is 0.2945. It takes 66578.41 seconds
+Iteration 245000 done. Current Explore rate is 0.2938. It takes 66721.91 seconds
+Iteration 245500 done. Current Explore rate is 0.2930. It takes 66863.28 seconds
+Iteration 246000 done. Current Explore rate is 0.2923. It takes 67003.44 seconds
+Win rate as first player:99.00%, as second player:97.00%
+Iteration 246500 done. Current Explore rate is 0.2916. It takes 67164.43 seconds
+Iteration 247000 done. Current Explore rate is 0.2908. It takes 67328.45 seconds
+Iteration 247500 done. Current Explore rate is 0.2901. It takes 67514.60 seconds
+Iteration 248000 done. Current Explore rate is 0.2894. It takes 67658.90 seconds
+Win rate as first player:98.00%, as second player:97.00%
+Iteration 248500 done. Current Explore rate is 0.2887. It takes 67803.44 seconds
+Iteration 249000 done. Current Explore rate is 0.2879. It takes 67942.97 seconds
+Iteration 249500 done. Current Explore rate is 0.2872. It takes 68084.21 seconds
+Iteration 250000 done. Current Explore rate is 0.2865. It takes 68225.19 seconds
+Win rate as first player:99.00%, as second player:97.00%
+Iteration 250500 done. Current Explore rate is 0.2858. It takes 68368.91 seconds
+Iteration 251000 done. Current Explore rate is 0.2851. It takes 68509.11 seconds
+Iteration 251500 done. Current Explore rate is 0.2844. It takes 68649.11 seconds
+Iteration 252000 done. Current Explore rate is 0.2837. It takes 68788.73 seconds
+Win rate as first player:98.00%, as second player:99.00%
+Iteration 252500 done. Current Explore rate is 0.2829. It takes 68934.24 seconds
+Iteration 253000 done. Current Explore rate is 0.2822. It takes 69074.97 seconds
+Iteration 253500 done. Current Explore rate is 0.2815. It takes 69216.18 seconds
+Iteration 254000 done. Current Explore rate is 0.2808. It takes 69357.46 seconds
+Win rate as first player:98.00%, as second player:97.00%
+Iteration 254500 done. Current Explore rate is 0.2801. It takes 69499.73 seconds
+Iteration 255000 done. Current Explore rate is 0.2794. It takes 69641.38 seconds
+Iteration 255500 done. Current Explore rate is 0.2787. It takes 69781.77 seconds
+Iteration 256000 done. Current Explore rate is 0.2780. It takes 69921.73 seconds
+Win rate as first player:96.00%, as second player:99.00%
+Iteration 256500 done. Current Explore rate is 0.2773. It takes 70064.40 seconds
+Iteration 257000 done. Current Explore rate is 0.2766. It takes 70205.48 seconds
+Iteration 257500 done. Current Explore rate is 0.2760. It takes 70346.73 seconds
+Iteration 258000 done. Current Explore rate is 0.2753. It takes 70487.71 seconds
+Win rate as first player:100.00%, as second player:99.00%
+Iteration 258500 done. Current Explore rate is 0.2746. It takes 70633.00 seconds
+Iteration 259000 done. Current Explore rate is 0.2739. It takes 70774.83 seconds
+Iteration 259500 done. Current Explore rate is 0.2732. It takes 70915.58 seconds
+Iteration 260000 done. Current Explore rate is 0.2725. It takes 71055.56 seconds
+Win rate as first player:97.00%, as second player:100.00%
+Iteration 260500 done. Current Explore rate is 0.2719. It takes 71199.12 seconds
+Iteration 261000 done. Current Explore rate is 0.2712. It takes 71341.80 seconds
+Iteration 261500 done. Current Explore rate is 0.2705. It takes 71484.61 seconds
+Iteration 262000 done. Current Explore rate is 0.2698. It takes 71626.34 seconds
+Win rate as first player:98.00%, as second player:98.00%
+Iteration 262500 done. Current Explore rate is 0.2691. It takes 71772.28 seconds
+Iteration 263000 done. Current Explore rate is 0.2685. It takes 71913.71 seconds
+Iteration 263500 done. Current Explore rate is 0.2678. It takes 72055.71 seconds
+Iteration 264000 done. Current Explore rate is 0.2671. It takes 72196.92 seconds
+Win rate as first player:98.00%, as second player:97.00%
+Iteration 264500 done. Current Explore rate is 0.2665. It takes 72342.22 seconds
+Iteration 265000 done. Current Explore rate is 0.2658. It takes 72484.23 seconds
+Iteration 265500 done. Current Explore rate is 0.2651. It takes 72625.94 seconds
+Iteration 266000 done. Current Explore rate is 0.2645. It takes 72768.60 seconds
+Win rate as first player:97.00%, as second player:94.00%
+Iteration 266500 done. Current Explore rate is 0.2638. It takes 72913.96 seconds
+Iteration 267000 done. Current Explore rate is 0.2632. It takes 73056.94 seconds
+Iteration 267500 done. Current Explore rate is 0.2625. It takes 73199.32 seconds
+Iteration 268000 done. Current Explore rate is 0.2618. It takes 73342.30 seconds
+Win rate as first player:97.00%, as second player:95.00%
+Iteration 268500 done. Current Explore rate is 0.2612. It takes 73488.68 seconds
+Iteration 269000 done. Current Explore rate is 0.2605. It takes 73630.80 seconds
+Iteration 269500 done. Current Explore rate is 0.2599. It takes 73775.90 seconds
+Iteration 270000 done. Current Explore rate is 0.2592. It takes 73919.70 seconds
+Win rate as first player:96.00%, as second player:95.00%
+Iteration 270500 done. Current Explore rate is 0.2586. It takes 74066.33 seconds
+Iteration 271000 done. Current Explore rate is 0.2579. It takes 74209.38 seconds
+Iteration 271500 done. Current Explore rate is 0.2573. It takes 74353.67 seconds
+Iteration 272000 done. Current Explore rate is 0.2567. It takes 74496.80 seconds
+Win rate as first player:99.00%, as second player:97.98%
+Iteration 272500 done. Current Explore rate is 0.2560. It takes 74642.71 seconds
+Iteration 273000 done. Current Explore rate is 0.2554. It takes 74785.59 seconds
+Iteration 273500 done. Current Explore rate is 0.2547. It takes 74928.33 seconds
+Iteration 274000 done. Current Explore rate is 0.2541. It takes 75071.65 seconds
+Win rate as first player:97.00%, as second player:96.00%
+Iteration 274500 done. Current Explore rate is 0.2535. It takes 75219.85 seconds
+Iteration 275000 done. Current Explore rate is 0.2528. It takes 75363.82 seconds
+Iteration 275500 done. Current Explore rate is 0.2522. It takes 75509.35 seconds
+Iteration 276000 done. Current Explore rate is 0.2516. It takes 75654.28 seconds
+Win rate as first player:98.00%, as second player:95.00%
+Iteration 276500 done. Current Explore rate is 0.2509. It takes 75807.30 seconds
+Iteration 277000 done. Current Explore rate is 0.2503. It takes 75960.39 seconds
+Iteration 277500 done. Current Explore rate is 0.2497. It takes 76112.03 seconds
+Iteration 278000 done. Current Explore rate is 0.2491. It takes 76263.95 seconds
+Win rate as first player:98.00%, as second player:92.00%
+Iteration 278500 done. Current Explore rate is 0.2485. It takes 76419.45 seconds
+Iteration 279000 done. Current Explore rate is 0.2478. It takes 76571.48 seconds
+Iteration 279500 done. Current Explore rate is 0.2472. It takes 76724.77 seconds
+Iteration 280000 done. Current Explore rate is 0.2466. It takes 76877.60 seconds
+Win rate as first player:94.00%, as second player:93.00%
+Iteration 280500 done. Current Explore rate is 0.2460. It takes 77034.98 seconds
+Iteration 281000 done. Current Explore rate is 0.2454. It takes 77188.41 seconds
+Iteration 281500 done. Current Explore rate is 0.2448. It takes 77342.71 seconds
+Iteration 282000 done. Current Explore rate is 0.2441. It takes 77497.17 seconds
+Win rate as first player:96.00%, as second player:93.00%
+Iteration 282500 done. Current Explore rate is 0.2435. It takes 77654.96 seconds
+Iteration 283000 done. Current Explore rate is 0.2429. It takes 77808.90 seconds
+Iteration 283500 done. Current Explore rate is 0.2423. It takes 77962.46 seconds
+Iteration 284000 done. Current Explore rate is 0.2417. It takes 78117.28 seconds
+Win rate as first player:96.00%, as second player:92.00%
+Iteration 284500 done. Current Explore rate is 0.2411. It takes 78275.96 seconds
+Iteration 285000 done. Current Explore rate is 0.2405. It takes 78430.03 seconds
+Iteration 285500 done. Current Explore rate is 0.2399. It takes 78584.64 seconds
+Iteration 286000 done. Current Explore rate is 0.2393. It takes 78741.17 seconds
+Win rate as first player:95.00%, as second player:88.00%
+Iteration 286500 done. Current Explore rate is 0.2387. It takes 78900.52 seconds
+Iteration 287000 done. Current Explore rate is 0.2381. It takes 79055.59 seconds
+Iteration 287500 done. Current Explore rate is 0.2375. It takes 79215.85 seconds
+Iteration 288000 done. Current Explore rate is 0.2369. It takes 79372.59 seconds
+Win rate as first player:93.00%, as second player:94.00%
+Iteration 288500 done. Current Explore rate is 0.2363. It takes 79532.66 seconds
+Iteration 289000 done. Current Explore rate is 0.2357. It takes 79690.22 seconds
+Iteration 289500 done. Current Explore rate is 0.2352. It takes 79949.86 seconds
+Iteration 290000 done. Current Explore rate is 0.2346. It takes 80259.41 seconds
+Win rate as first player:96.00%, as second player:87.00%
+Iteration 290500 done. Current Explore rate is 0.2340. It takes 80496.68 seconds
+Iteration 291000 done. Current Explore rate is 0.2334. It takes 80726.20 seconds
+Iteration 291500 done. Current Explore rate is 0.2328. It takes 80921.31 seconds
+Iteration 292000 done. Current Explore rate is 0.2322. It takes 81144.78 seconds
+Win rate as first player:93.00%, as second player:84.00%
+Iteration 292500 done. Current Explore rate is 0.2317. It takes 81348.09 seconds
+Iteration 293000 done. Current Explore rate is 0.2311. It takes 81520.93 seconds
+Iteration 293500 done. Current Explore rate is 0.2305. It takes 81684.41 seconds
+Iteration 294000 done. Current Explore rate is 0.2299. It takes 81852.18 seconds
+Win rate as first player:92.00%, as second player:88.00%
+Iteration 294500 done. Current Explore rate is 0.2294. It takes 82011.17 seconds
+Iteration 295000 done. Current Explore rate is 0.2288. It takes 82165.31 seconds
+Iteration 295500 done. Current Explore rate is 0.2282. It takes 82317.33 seconds
+Iteration 296000 done. Current Explore rate is 0.2276. It takes 82477.52 seconds
+Win rate as first player:89.00%, as second player:81.00%
+Iteration 296500 done. Current Explore rate is 0.2271. It takes 82653.83 seconds
+Iteration 297000 done. Current Explore rate is 0.2265. It takes 82817.59 seconds
+Iteration 297500 done. Current Explore rate is 0.2259. It takes 82998.56 seconds
+Iteration 298000 done. Current Explore rate is 0.2254. It takes 83169.72 seconds
+Win rate as first player:83.00%, as second player:82.00%
+Iteration 298500 done. Current Explore rate is 0.2248. It takes 83356.42 seconds
+Iteration 299000 done. Current Explore rate is 0.2242. It takes 83522.23 seconds
+Iteration 299500 done. Current Explore rate is 0.2237. It takes 83713.48 seconds
+Iteration 300000 done. Current Explore rate is 0.2231. It takes 83908.26 seconds
+Win rate as first player:83.00%, as second player:77.00%
+Iteration 300500 done. Current Explore rate is 0.2226. It takes 84089.91 seconds
+Iteration 301000 done. Current Explore rate is 0.2220. It takes 84269.21 seconds
+Iteration 301500 done. Current Explore rate is 0.2215. It takes 84440.61 seconds
+Iteration 302000 done. Current Explore rate is 0.2209. It takes 84617.51 seconds
+Win rate as first player:73.00%, as second player:74.00%
+Iteration 302500 done. Current Explore rate is 0.2204. It takes 84798.22 seconds
+Iteration 303000 done. Current Explore rate is 0.2198. It takes 84973.23 seconds
+Iteration 303500 done. Current Explore rate is 0.2193. It takes 85151.69 seconds
+Iteration 304000 done. Current Explore rate is 0.2187. It takes 85330.52 seconds
+Win rate as first player:72.00%, as second player:67.00%
+Iteration 304500 done. Current Explore rate is 0.2182. It takes 85522.18 seconds
+Iteration 305000 done. Current Explore rate is 0.2176. It takes 85741.20 seconds
+Iteration 305500 done. Current Explore rate is 0.2171. It takes 85908.84 seconds
+Iteration 306000 done. Current Explore rate is 0.2165. It takes 86081.73 seconds
+Win rate as first player:52.00%, as second player:64.00%
+Iteration 306500 done. Current Explore rate is 0.2160. It takes 86263.36 seconds
+Iteration 307000 done. Current Explore rate is 0.2155. It takes 86443.18 seconds
+Iteration 307500 done. Current Explore rate is 0.2149. It takes 86624.75 seconds
+Iteration 308000 done. Current Explore rate is 0.2144. It takes 86803.51 seconds
+Win rate as first player:58.00%, as second player:48.00%
+Iteration 308500 done. Current Explore rate is 0.2138. It takes 86997.01 seconds
+Iteration 309000 done. Current Explore rate is 0.2133. It takes 87168.61 seconds
+Iteration 309500 done. Current Explore rate is 0.2128. It takes 87358.67 seconds
+Iteration 310000 done. Current Explore rate is 0.2122. It takes 87545.73 seconds
+Win rate as first player:61.62%, as second player:52.00%
+Iteration 310500 done. Current Explore rate is 0.2117. It takes 87735.44 seconds
+Iteration 311000 done. Current Explore rate is 0.2112. It takes 87912.53 seconds
+Iteration 311500 done. Current Explore rate is 0.2107. It takes 88088.71 seconds
+Iteration 312000 done. Current Explore rate is 0.2101. It takes 88261.79 seconds
+Win rate as first player:51.00%, as second player:54.00%
+Iteration 312500 done. Current Explore rate is 0.2096. It takes 88453.45 seconds
+Iteration 313000 done. Current Explore rate is 0.2091. It takes 88636.59 seconds
+Iteration 313500 done. Current Explore rate is 0.2086. It takes 88822.22 seconds
+Iteration 314000 done. Current Explore rate is 0.2080. It takes 89004.78 seconds
+Win rate as first player:51.00%, as second player:37.00%
+Iteration 314500 done. Current Explore rate is 0.2075. It takes 89257.69 seconds
+Iteration 315000 done. Current Explore rate is 0.2070. It takes 89501.28 seconds
+Iteration 315500 done. Current Explore rate is 0.2065. It takes 89662.91 seconds
+Iteration 316000 done. Current Explore rate is 0.2060. It takes 89823.25 seconds
+Win rate as first player:54.00%, as second player:37.00%
+Iteration 316500 done. Current Explore rate is 0.2055. It takes 89988.70 seconds
+Iteration 317000 done. Current Explore rate is 0.2049. It takes 90147.74 seconds
+Iteration 317500 done. Current Explore rate is 0.2044. It takes 90307.74 seconds
+Iteration 318000 done. Current Explore rate is 0.2039. It takes 90469.42 seconds
+Win rate as first player:44.44%, as second player:42.00%
+Iteration 318500 done. Current Explore rate is 0.2034. It takes 90637.01 seconds
+Iteration 319000 done. Current Explore rate is 0.2029. It takes 90798.77 seconds
+Iteration 319500 done. Current Explore rate is 0.2024. It takes 90963.26 seconds
+Iteration 320000 done. Current Explore rate is 0.2019. It takes 91125.53 seconds
+Win rate as first player:40.40%, as second player:32.00%
+Iteration 320500 done. Current Explore rate is 0.2014. It takes 91293.40 seconds
+Iteration 321000 done. Current Explore rate is 0.2009. It takes 91453.83 seconds
+Iteration 321500 done. Current Explore rate is 0.2004. It takes 91614.46 seconds
+Iteration 322000 done. Current Explore rate is 0.1999. It takes 91775.50 seconds
+Win rate as first player:46.00%, as second player:34.00%
+Iteration 322500 done. Current Explore rate is 0.1994. It takes 91943.16 seconds
+Iteration 323000 done. Current Explore rate is 0.1989. It takes 92103.95 seconds
+Iteration 323500 done. Current Explore rate is 0.1984. It takes 92264.85 seconds
+Iteration 324000 done. Current Explore rate is 0.1979. It takes 92425.02 seconds
+Win rate as first player:46.00%, as second player:31.00%
+Iteration 324500 done. Current Explore rate is 0.1974. It takes 92592.08 seconds
+Iteration 325000 done. Current Explore rate is 0.1969. It takes 92754.79 seconds
+Iteration 325500 done. Current Explore rate is 0.1964. It takes 92917.12 seconds
+Iteration 326000 done. Current Explore rate is 0.1959. It takes 93079.13 seconds
+Win rate as first player:39.00%, as second player:35.00%
+Iteration 326500 done. Current Explore rate is 0.1954. It takes 93248.45 seconds
+Iteration 327000 done. Current Explore rate is 0.1950. It takes 93408.58 seconds
+Iteration 327500 done. Current Explore rate is 0.1945. It takes 93570.54 seconds
+Iteration 328000 done. Current Explore rate is 0.1940. It takes 93732.94 seconds
+Win rate as first player:53.00%, as second player:44.44%
+Iteration 328500 done. Current Explore rate is 0.1935. It takes 93901.16 seconds
+Iteration 329000 done. Current Explore rate is 0.1930. It takes 94062.13 seconds
+Iteration 329500 done. Current Explore rate is 0.1925. It takes 94223.40 seconds
+Iteration 330000 done. Current Explore rate is 0.1920. It takes 94385.26 seconds
+Win rate as first player:53.00%, as second player:43.00%
+Iteration 330500 done. Current Explore rate is 0.1916. It takes 94553.76 seconds
+Iteration 331000 done. Current Explore rate is 0.1911. It takes 94715.90 seconds
+Iteration 331500 done. Current Explore rate is 0.1906. It takes 94877.07 seconds
+Iteration 332000 done. Current Explore rate is 0.1901. It takes 95038.88 seconds
+Win rate as first player:46.46%, as second player:48.00%
+Iteration 332500 done. Current Explore rate is 0.1897. It takes 95208.23 seconds
+Iteration 333000 done. Current Explore rate is 0.1892. It takes 95370.59 seconds
+Iteration 333500 done. Current Explore rate is 0.1887. It takes 95533.12 seconds
+Iteration 334000 done. Current Explore rate is 0.1882. It takes 95696.70 seconds
+Win rate as first player:47.00%, as second player:41.00%
+Iteration 334500 done. Current Explore rate is 0.1878. It takes 95866.38 seconds
+Iteration 335000 done. Current Explore rate is 0.1873. It takes 96027.95 seconds
+Iteration 335500 done. Current Explore rate is 0.1868. It takes 96191.01 seconds
+Iteration 336000 done. Current Explore rate is 0.1864. It takes 96367.52 seconds
+Win rate as first player:53.54%, as second player:45.00%
+Iteration 336500 done. Current Explore rate is 0.1859. It takes 96538.71 seconds
+Iteration 337000 done. Current Explore rate is 0.1854. It takes 96701.89 seconds
+Iteration 337500 done. Current Explore rate is 0.1850. It takes 96865.67 seconds
+Iteration 338000 done. Current Explore rate is 0.1845. It takes 97028.51 seconds
+Win rate as first player:55.00%, as second player:42.00%
+Iteration 338500 done. Current Explore rate is 0.1841. It takes 97199.45 seconds
+Iteration 339000 done. Current Explore rate is 0.1836. It takes 97364.00 seconds
+Iteration 339500 done. Current Explore rate is 0.1831. It takes 97527.85 seconds
+Iteration 340000 done. Current Explore rate is 0.1827. It takes 97691.03 seconds
+Win rate as first player:45.00%, as second player:45.00%
+Iteration 340500 done. Current Explore rate is 0.1822. It takes 97861.27 seconds
+Iteration 341000 done. Current Explore rate is 0.1818. It takes 98027.23 seconds
+Iteration 341500 done. Current Explore rate is 0.1813. It takes 98192.57 seconds
+Iteration 342000 done. Current Explore rate is 0.1809. It takes 98356.89 seconds
+Win rate as first player:55.56%, as second player:43.00%
+Iteration 342500 done. Current Explore rate is 0.1804. It takes 98528.88 seconds
+Iteration 343000 done. Current Explore rate is 0.1800. It takes 98693.22 seconds
+Iteration 343500 done. Current Explore rate is 0.1795. It takes 98857.36 seconds
+Iteration 344000 done. Current Explore rate is 0.1791. It takes 99020.99 seconds
+Win rate as first player:44.00%, as second player:40.40%
+Iteration 344500 done. Current Explore rate is 0.1786. It takes 99190.88 seconds
+Iteration 345000 done. Current Explore rate is 0.1782. It takes 99353.22 seconds
+Iteration 345500 done. Current Explore rate is 0.1777. It takes 99518.67 seconds
+Iteration 346000 done. Current Explore rate is 0.1773. It takes 99682.86 seconds
+Win rate as first player:50.00%, as second player:53.00%
+Iteration 346500 done. Current Explore rate is 0.1768. It takes 99854.90 seconds
+Iteration 347000 done. Current Explore rate is 0.1764. It takes 100020.95 seconds
+Iteration 347500 done. Current Explore rate is 0.1760. It takes 100184.71 seconds
+Iteration 348000 done. Current Explore rate is 0.1755. It takes 100350.64 seconds
+Win rate as first player:54.55%, as second player:46.00%
+Iteration 348500 done. Current Explore rate is 0.1751. It takes 100522.69 seconds
+Iteration 349000 done. Current Explore rate is 0.1746. It takes 100689.06 seconds
+Iteration 349500 done. Current Explore rate is 0.1742. It takes 100853.75 seconds
+Iteration 350000 done. Current Explore rate is 0.1738. It takes 101017.58 seconds
+Win rate as first player:58.00%, as second player:54.00%
+Iteration 350500 done. Current Explore rate is 0.1733. It takes 101188.50 seconds
+Iteration 351000 done. Current Explore rate is 0.1729. It takes 101352.95 seconds
+Iteration 351500 done. Current Explore rate is 0.1725. It takes 101517.13 seconds
+Iteration 352000 done. Current Explore rate is 0.1720. It takes 101680.87 seconds
+Win rate as first player:54.08%, as second player:46.46%
+Iteration 352500 done. Current Explore rate is 0.1716. It takes 101852.36 seconds
+Iteration 353000 done. Current Explore rate is 0.1712. It takes 102020.52 seconds
+Iteration 353500 done. Current Explore rate is 0.1708. It takes 102186.10 seconds
+Iteration 354000 done. Current Explore rate is 0.1703. It takes 102353.04 seconds
+Win rate as first player:59.00%, as second player:45.00%
+Iteration 354500 done. Current Explore rate is 0.1699. It takes 102525.99 seconds
+Iteration 355000 done. Current Explore rate is 0.1695. It takes 102691.73 seconds
+Iteration 355500 done. Current Explore rate is 0.1691. It takes 102856.35 seconds
+Iteration 356000 done. Current Explore rate is 0.1686. It takes 103020.86 seconds
+Win rate as first player:63.00%, as second player:57.00%
+Iteration 356500 done. Current Explore rate is 0.1682. It takes 103191.92 seconds
+Iteration 357000 done. Current Explore rate is 0.1678. It takes 103356.32 seconds
+Iteration 357500 done. Current Explore rate is 0.1674. It takes 103521.74 seconds
+Iteration 358000 done. Current Explore rate is 0.1670. It takes 103690.89 seconds
+Win rate as first player:64.00%, as second player:62.00%
+Iteration 358500 done. Current Explore rate is 0.1665. It takes 103863.13 seconds
+Iteration 359000 done. Current Explore rate is 0.1661. It takes 104029.84 seconds
+Iteration 359500 done. Current Explore rate is 0.1657. It takes 104198.46 seconds
+Iteration 360000 done. Current Explore rate is 0.1653. It takes 104366.38 seconds
+Win rate as first player:58.00%, as second player:53.54%
+Iteration 360500 done. Current Explore rate is 0.1649. It takes 104538.54 seconds
+Iteration 361000 done. Current Explore rate is 0.1645. It takes 104703.76 seconds
+Iteration 361500 done. Current Explore rate is 0.1641. It takes 104870.02 seconds
+Iteration 362000 done. Current Explore rate is 0.1637. It takes 105034.56 seconds
+Win rate as first player:58.59%, as second player:52.00%
+Iteration 362500 done. Current Explore rate is 0.1632. It takes 105205.32 seconds
+Iteration 363000 done. Current Explore rate is 0.1628. It takes 105367.63 seconds
+Iteration 363500 done. Current Explore rate is 0.1624. It takes 105532.54 seconds
+Iteration 364000 done. Current Explore rate is 0.1620. It takes 105700.06 seconds
+Win rate as first player:66.00%, as second player:61.00%
+Iteration 364500 done. Current Explore rate is 0.1616. It takes 105872.69 seconds
+Iteration 365000 done. Current Explore rate is 0.1612. It takes 106039.07 seconds
+Iteration 365500 done. Current Explore rate is 0.1608. It takes 106204.24 seconds
+Iteration 366000 done. Current Explore rate is 0.1604. It takes 106369.09 seconds
+Win rate as first player:58.00%, as second player:54.00%
+Iteration 366500 done. Current Explore rate is 0.1600. It takes 106541.38 seconds
+Iteration 367000 done. Current Explore rate is 0.1596. It takes 106705.72 seconds
+Iteration 367500 done. Current Explore rate is 0.1592. It takes 106872.62 seconds
+Iteration 368000 done. Current Explore rate is 0.1588. It takes 107037.82 seconds
+Win rate as first player:68.00%, as second player:55.10%
+Iteration 368500 done. Current Explore rate is 0.1584. It takes 107211.65 seconds
+Iteration 369000 done. Current Explore rate is 0.1580. It takes 107379.73 seconds
+Iteration 369500 done. Current Explore rate is 0.1576. It takes 107547.71 seconds
+Iteration 370000 done. Current Explore rate is 0.1572. It takes 107713.68 seconds
+Win rate as first player:76.00%, as second player:62.00%
+Iteration 370500 done. Current Explore rate is 0.1568. It takes 107888.81 seconds
+Iteration 371000 done. Current Explore rate is 0.1565. It takes 108058.33 seconds
+Iteration 371500 done. Current Explore rate is 0.1561. It takes 108226.88 seconds
+Iteration 372000 done. Current Explore rate is 0.1557. It takes 108394.17 seconds
+Win rate as first player:71.00%, as second player:59.00%
+Iteration 372500 done. Current Explore rate is 0.1553. It takes 108566.19 seconds
+Iteration 373000 done. Current Explore rate is 0.1549. It takes 108733.32 seconds
+Iteration 373500 done. Current Explore rate is 0.1545. It takes 108899.95 seconds
+Iteration 374000 done. Current Explore rate is 0.1541. It takes 109066.78 seconds
+Win rate as first player:53.00%, as second player:51.00%
+Iteration 374500 done. Current Explore rate is 0.1537. It takes 109239.81 seconds
+Iteration 375000 done. Current Explore rate is 0.1534. It takes 109406.85 seconds
+Iteration 375500 done. Current Explore rate is 0.1530. It takes 109574.38 seconds
+Iteration 376000 done. Current Explore rate is 0.1526. It takes 109742.53 seconds
+Win rate as first player:63.00%, as second player:57.58%
+Iteration 376500 done. Current Explore rate is 0.1522. It takes 109916.37 seconds
+Iteration 377000 done. Current Explore rate is 0.1518. It takes 110084.17 seconds
+Iteration 377500 done. Current Explore rate is 0.1514. It takes 110254.38 seconds
+Iteration 378000 done. Current Explore rate is 0.1511. It takes 110424.50 seconds
+Win rate as first player:58.00%, as second player:46.00%
+Iteration 378500 done. Current Explore rate is 0.1507. It takes 110600.35 seconds
+Iteration 379000 done. Current Explore rate is 0.1503. It takes 110768.42 seconds
+Iteration 379500 done. Current Explore rate is 0.1499. It takes 110938.33 seconds
+Iteration 380000 done. Current Explore rate is 0.1496. It takes 111107.88 seconds
+Win rate as first player:60.00%, as second player:56.12%
+Iteration 380500 done. Current Explore rate is 0.1492. It takes 111281.68 seconds
+Iteration 381000 done. Current Explore rate is 0.1488. It takes 111450.79 seconds
+Iteration 381500 done. Current Explore rate is 0.1485. It takes 111617.16 seconds
+Iteration 382000 done. Current Explore rate is 0.1481. It takes 111786.00 seconds
+Win rate as first player:62.63%, as second player:49.00%
+Iteration 382500 done. Current Explore rate is 0.1477. It takes 111960.60 seconds
+Iteration 383000 done. Current Explore rate is 0.1473. It takes 112129.37 seconds
+Iteration 383500 done. Current Explore rate is 0.1470. It takes 112299.31 seconds
+Iteration 384000 done. Current Explore rate is 0.1466. It takes 112468.12 seconds
+Win rate as first player:67.00%, as second player:58.59%
+Iteration 384500 done. Current Explore rate is 0.1462. It takes 112642.18 seconds
+Iteration 385000 done. Current Explore rate is 0.1459. It takes 112810.29 seconds
+Iteration 385500 done. Current Explore rate is 0.1455. It takes 112979.01 seconds
+Iteration 386000 done. Current Explore rate is 0.1451. It takes 113147.14 seconds
+Win rate as first player:72.73%, as second player:67.00%
+Iteration 386500 done. Current Explore rate is 0.1448. It takes 113321.36 seconds
+Iteration 387000 done. Current Explore rate is 0.1444. It takes 113487.63 seconds
+Iteration 387500 done. Current Explore rate is 0.1441. It takes 113653.81 seconds
+Iteration 388000 done. Current Explore rate is 0.1437. It takes 113823.76 seconds
+Win rate as first player:72.00%, as second player:68.00%
+Iteration 388500 done. Current Explore rate is 0.1433. It takes 113998.50 seconds
+Iteration 389000 done. Current Explore rate is 0.1430. It takes 114168.46 seconds
+Iteration 389500 done. Current Explore rate is 0.1426. It takes 114337.87 seconds
+Iteration 390000 done. Current Explore rate is 0.1423. It takes 114507.74 seconds
+Win rate as first player:57.00%, as second player:64.00%
+Iteration 390500 done. Current Explore rate is 0.1419. It takes 114683.15 seconds
+Iteration 391000 done. Current Explore rate is 0.1416. It takes 114850.02 seconds
+Iteration 391500 done. Current Explore rate is 0.1412. It takes 115021.26 seconds
+Iteration 392000 done. Current Explore rate is 0.1409. It takes 115191.81 seconds
+Win rate as first player:72.00%, as second player:67.00%
+Iteration 392500 done. Current Explore rate is 0.1405. It takes 115366.30 seconds
+Iteration 393000 done. Current Explore rate is 0.1402. It takes 115531.92 seconds
+Iteration 393500 done. Current Explore rate is 0.1398. It takes 115698.94 seconds
+Iteration 394000 done. Current Explore rate is 0.1395. It takes 115866.58 seconds
+Win rate as first player:69.00%, as second player:67.00%
+Iteration 394500 done. Current Explore rate is 0.1391. It takes 116040.33 seconds
+Iteration 395000 done. Current Explore rate is 0.1388. It takes 116210.72 seconds
+Iteration 395500 done. Current Explore rate is 0.1384. It takes 116381.16 seconds
+Iteration 396000 done. Current Explore rate is 0.1381. It takes 116550.07 seconds
+Win rate as first player:84.00%, as second player:58.00%
+Iteration 396500 done. Current Explore rate is 0.1377. It takes 116724.49 seconds
+Iteration 397000 done. Current Explore rate is 0.1374. It takes 116893.74 seconds
+Iteration 397500 done. Current Explore rate is 0.1370. It takes 117065.16 seconds
+Iteration 398000 done. Current Explore rate is 0.1367. It takes 117235.01 seconds
+Win rate as first player:58.00%, as second player:66.00%
+Iteration 398500 done. Current Explore rate is 0.1364. It takes 117409.97 seconds
+Iteration 399000 done. Current Explore rate is 0.1360. It takes 117580.50 seconds
+Iteration 399500 done. Current Explore rate is 0.1357. It takes 117750.99 seconds
+Iteration 400000 done. Current Explore rate is 0.1353. It takes 117923.99 seconds
+Win rate as first player:83.00%, as second player:67.00%
+Iteration 400500 done. Current Explore rate is 0.1350. It takes 118099.66 seconds
+Iteration 401000 done. Current Explore rate is 0.1347. It takes 118267.57 seconds
+Iteration 401500 done. Current Explore rate is 0.1343. It takes 118438.49 seconds
+Iteration 402000 done. Current Explore rate is 0.1340. It takes 118606.96 seconds
+Win rate as first player:78.00%, as second player:70.00%
+Iteration 402500 done. Current Explore rate is 0.1337. It takes 118783.28 seconds
+Iteration 403000 done. Current Explore rate is 0.1333. It takes 118951.55 seconds
+Iteration 403500 done. Current Explore rate is 0.1330. It takes 119119.13 seconds
+Iteration 404000 done. Current Explore rate is 0.1327. It takes 119286.96 seconds
+Win rate as first player:78.00%, as second player:66.00%
+Iteration 404500 done. Current Explore rate is 0.1323. It takes 119463.44 seconds
+Iteration 405000 done. Current Explore rate is 0.1320. It takes 119630.68 seconds
+Iteration 405500 done. Current Explore rate is 0.1317. It takes 119798.05 seconds
+Iteration 406000 done. Current Explore rate is 0.1313. It takes 119965.07 seconds
+Win rate as first player:86.00%, as second player:67.00%
+Iteration 406500 done. Current Explore rate is 0.1310. It takes 120140.39 seconds
+Iteration 407000 done. Current Explore rate is 0.1307. It takes 120309.24 seconds
+Iteration 407500 done. Current Explore rate is 0.1304. It takes 120476.58 seconds
+Iteration 408000 done. Current Explore rate is 0.1300. It takes 120646.50 seconds
+Win rate as first player:77.00%, as second player:69.00%
+Iteration 408500 done. Current Explore rate is 0.1297. It takes 120822.05 seconds
+Iteration 409000 done. Current Explore rate is 0.1294. It takes 120992.62 seconds
+Iteration 409500 done. Current Explore rate is 0.1291. It takes 121162.26 seconds
+Iteration 410000 done. Current Explore rate is 0.1287. It takes 121330.56 seconds
+Win rate as first player:78.00%, as second player:72.00%
+Iteration 410500 done. Current Explore rate is 0.1284. It takes 121504.20 seconds
+Iteration 411000 done. Current Explore rate is 0.1281. It takes 121675.42 seconds
+Iteration 411500 done. Current Explore rate is 0.1278. It takes 121846.59 seconds
+Iteration 412000 done. Current Explore rate is 0.1275. It takes 122018.94 seconds
+Win rate as first player:66.00%, as second player:58.00%
+Iteration 412500 done. Current Explore rate is 0.1271. It takes 122196.17 seconds
+Iteration 413000 done. Current Explore rate is 0.1268. It takes 122366.61 seconds
+Iteration 413500 done. Current Explore rate is 0.1265. It takes 122534.42 seconds
+Iteration 414000 done. Current Explore rate is 0.1262. It takes 122701.42 seconds
+Win rate as first player:82.00%, as second player:76.00%
+Iteration 414500 done. Current Explore rate is 0.1259. It takes 122875.95 seconds
+Iteration 415000 done. Current Explore rate is 0.1256. It takes 123045.70 seconds
+Iteration 415500 done. Current Explore rate is 0.1252. It takes 123215.59 seconds
+Iteration 416000 done. Current Explore rate is 0.1249. It takes 123386.88 seconds
+Win rate as first player:77.00%, as second player:71.00%
+Iteration 416500 done. Current Explore rate is 0.1246. It takes 123563.97 seconds
+Iteration 417000 done. Current Explore rate is 0.1243. It takes 123735.13 seconds
+Iteration 417500 done. Current Explore rate is 0.1240. It takes 123904.58 seconds
+Iteration 418000 done. Current Explore rate is 0.1237. It takes 124074.47 seconds
+Win rate as first player:75.76%, as second player:67.00%
+Iteration 418500 done. Current Explore rate is 0.1234. It takes 124250.43 seconds
+Iteration 419000 done. Current Explore rate is 0.1231. It takes 124418.50 seconds
+Iteration 419500 done. Current Explore rate is 0.1228. It takes 124587.62 seconds
+Iteration 420000 done. Current Explore rate is 0.1225. It takes 124756.72 seconds
+Win rate as first player:73.00%, as second player:68.00%
+Iteration 420500 done. Current Explore rate is 0.1222. It takes 124932.34 seconds
+Iteration 421000 done. Current Explore rate is 0.1218. It takes 125104.40 seconds
+Iteration 421500 done. Current Explore rate is 0.1215. It takes 125277.92 seconds
+Iteration 422000 done. Current Explore rate is 0.1212. It takes 125449.17 seconds
+Win rate as first player:63.00%, as second player:60.00%
+Iteration 422500 done. Current Explore rate is 0.1209. It takes 125627.19 seconds
+Iteration 423000 done. Current Explore rate is 0.1206. It takes 125798.25 seconds
+Iteration 423500 done. Current Explore rate is 0.1203. It takes 125970.58 seconds
+Iteration 424000 done. Current Explore rate is 0.1200. It takes 126140.45 seconds
+Win rate as first player:78.00%, as second player:80.00%
+Iteration 424500 done. Current Explore rate is 0.1197. It takes 126316.35 seconds
+Iteration 425000 done. Current Explore rate is 0.1194. It takes 126487.32 seconds
+Iteration 425500 done. Current Explore rate is 0.1191. It takes 126657.16 seconds
+Iteration 426000 done. Current Explore rate is 0.1188. It takes 126828.11 seconds
+Win rate as first player:93.00%, as second player:81.00%
+Iteration 426500 done. Current Explore rate is 0.1185. It takes 127003.75 seconds
+Iteration 427000 done. Current Explore rate is 0.1182. It takes 127173.61 seconds
+Iteration 427500 done. Current Explore rate is 0.1179. It takes 127344.90 seconds
+Iteration 428000 done. Current Explore rate is 0.1177. It takes 127518.60 seconds
+Win rate as first player:81.00%, as second player:76.00%
+Iteration 428500 done. Current Explore rate is 0.1174. It takes 127694.79 seconds
+Iteration 429000 done. Current Explore rate is 0.1171. It takes 127864.37 seconds
+Iteration 429500 done. Current Explore rate is 0.1168. It takes 128032.18 seconds
+Iteration 430000 done. Current Explore rate is 0.1165. It takes 128201.20 seconds
+Win rate as first player:82.83%, as second player:78.00%
+Iteration 430500 done. Current Explore rate is 0.1162. It takes 128376.55 seconds
+Iteration 431000 done. Current Explore rate is 0.1159. It takes 128546.34 seconds
+Iteration 431500 done. Current Explore rate is 0.1156. It takes 128716.78 seconds
+Iteration 432000 done. Current Explore rate is 0.1153. It takes 128885.62 seconds
+Win rate as first player:82.00%, as second player:78.00%
+Iteration 432500 done. Current Explore rate is 0.1150. It takes 129059.77 seconds
+Iteration 433000 done. Current Explore rate is 0.1147. It takes 129228.02 seconds
+Iteration 433500 done. Current Explore rate is 0.1145. It takes 129397.24 seconds
+Iteration 434000 done. Current Explore rate is 0.1142. It takes 129565.52 seconds
+Win rate as first player:87.00%, as second player:71.00%
+Iteration 434500 done. Current Explore rate is 0.1139. It takes 129738.82 seconds
+Iteration 435000 done. Current Explore rate is 0.1136. It takes 129910.52 seconds
+Iteration 435500 done. Current Explore rate is 0.1133. It takes 130085.09 seconds
+Iteration 436000 done. Current Explore rate is 0.1130. It takes 130264.64 seconds
+Win rate as first player:85.00%, as second player:72.00%
+Iteration 436500 done. Current Explore rate is 0.1128. It takes 130441.64 seconds
+Iteration 437000 done. Current Explore rate is 0.1125. It takes 130612.84 seconds
+Iteration 437500 done. Current Explore rate is 0.1122. It takes 130784.78 seconds
+Iteration 438000 done. Current Explore rate is 0.1119. It takes 130955.66 seconds
+Win rate as first player:88.89%, as second player:76.00%
+Iteration 438500 done. Current Explore rate is 0.1116. It takes 131130.47 seconds
+Iteration 439000 done. Current Explore rate is 0.1114. It takes 131299.94 seconds
+Iteration 439500 done. Current Explore rate is 0.1111. It takes 131470.39 seconds
+Iteration 440000 done. Current Explore rate is 0.1108. It takes 131641.00 seconds
+Win rate as first player:80.00%, as second player:81.00%
+Iteration 440500 done. Current Explore rate is 0.1105. It takes 131817.29 seconds
+Iteration 441000 done. Current Explore rate is 0.1102. It takes 131989.57 seconds
+Iteration 441500 done. Current Explore rate is 0.1100. It takes 132161.64 seconds
+Iteration 442000 done. Current Explore rate is 0.1097. It takes 132335.45 seconds
+Win rate as first player:81.00%, as second player:69.00%
+Iteration 442500 done. Current Explore rate is 0.1094. It takes 132511.85 seconds
+Iteration 443000 done. Current Explore rate is 0.1092. It takes 132683.24 seconds
+Iteration 443500 done. Current Explore rate is 0.1089. It takes 132855.24 seconds
+Iteration 444000 done. Current Explore rate is 0.1086. It takes 133023.38 seconds
+Win rate as first player:85.00%, as second player:82.00%
+Iteration 444500 done. Current Explore rate is 0.1083. It takes 133199.68 seconds
+Iteration 445000 done. Current Explore rate is 0.1081. It takes 133373.72 seconds
+Iteration 445500 done. Current Explore rate is 0.1078. It takes 133545.36 seconds
+Iteration 446000 done. Current Explore rate is 0.1075. It takes 133717.23 seconds
+Win rate as first player:85.00%, as second player:79.00%
+Iteration 446500 done. Current Explore rate is 0.1073. It takes 133893.47 seconds
+Iteration 447000 done. Current Explore rate is 0.1070. It takes 134065.33 seconds
+Iteration 447500 done. Current Explore rate is 0.1067. It takes 134238.00 seconds
+Iteration 448000 done. Current Explore rate is 0.1065. It takes 134408.26 seconds
+Win rate as first player:88.00%, as second player:73.00%
+Iteration 448500 done. Current Explore rate is 0.1062. It takes 134584.76 seconds
+Iteration 449000 done. Current Explore rate is 0.1059. It takes 134754.04 seconds
+Iteration 449500 done. Current Explore rate is 0.1057. It takes 134925.05 seconds
+Iteration 450000 done. Current Explore rate is 0.1054. It takes 135095.16 seconds
+Win rate as first player:89.00%, as second player:85.00%
+Iteration 450500 done. Current Explore rate is 0.1051. It takes 135270.06 seconds
+Iteration 451000 done. Current Explore rate is 0.1049. It takes 135441.80 seconds
+Iteration 451500 done. Current Explore rate is 0.1046. It takes 135612.16 seconds
+Iteration 452000 done. Current Explore rate is 0.1043. It takes 135783.58 seconds
+Win rate as first player:89.00%, as second player:82.00%
+Iteration 452500 done. Current Explore rate is 0.1041. It takes 135961.37 seconds
+Iteration 453000 done. Current Explore rate is 0.1038. It takes 136134.02 seconds
+Iteration 453500 done. Current Explore rate is 0.1036. It takes 136306.34 seconds
+Iteration 454000 done. Current Explore rate is 0.1033. It takes 136477.10 seconds
+Win rate as first player:88.00%, as second player:83.00%
+Iteration 454500 done. Current Explore rate is 0.1031. It takes 136652.82 seconds
+Iteration 455000 done. Current Explore rate is 0.1028. It takes 136823.93 seconds
+Iteration 455500 done. Current Explore rate is 0.1025. It takes 136994.17 seconds
+Iteration 456000 done. Current Explore rate is 0.1023. It takes 137166.13 seconds
+Win rate as first player:88.00%, as second player:87.00%
+Iteration 456500 done. Current Explore rate is 0.1020. It takes 137341.87 seconds
+Iteration 457000 done. Current Explore rate is 0.1018. It takes 137515.21 seconds
+Iteration 457500 done. Current Explore rate is 0.1015. It takes 137687.17 seconds
+Iteration 458000 done. Current Explore rate is 0.1013. It takes 137858.09 seconds
+Win rate as first player:88.00%, as second player:77.00%
+Iteration 458500 done. Current Explore rate is 0.1010. It takes 138032.47 seconds
+Iteration 459000 done. Current Explore rate is 0.1008. It takes 138201.19 seconds
+Iteration 459500 done. Current Explore rate is 0.1005. It takes 138376.32 seconds
+Iteration 460000 done. Current Explore rate is 0.1003. It takes 138551.89 seconds
+Win rate as first player:87.00%, as second player:86.00%
+Iteration 460500 done. Current Explore rate is 0.1000. It takes 138729.40 seconds
+Iteration 461000 done. Current Explore rate is 0.1000. It takes 138900.08 seconds
+Iteration 461500 done. Current Explore rate is 0.1000. It takes 139071.28 seconds
+Iteration 462000 done. Current Explore rate is 0.1000. It takes 139245.46 seconds
+Win rate as first player:88.00%, as second player:78.00%
+Iteration 462500 done. Current Explore rate is 0.1000. It takes 139421.95 seconds
+Iteration 463000 done. Current Explore rate is 0.1000. It takes 139597.00 seconds
+Iteration 463500 done. Current Explore rate is 0.1000. It takes 139770.18 seconds
+Iteration 464000 done. Current Explore rate is 0.1000. It takes 139944.33 seconds
+Win rate as first player:94.00%, as second player:87.00%
+Iteration 464500 done. Current Explore rate is 0.1000. It takes 140121.84 seconds
+Iteration 465000 done. Current Explore rate is 0.1000. It takes 140296.08 seconds
+Iteration 465500 done. Current Explore rate is 0.1000. It takes 140469.60 seconds
+Iteration 466000 done. Current Explore rate is 0.1000. It takes 140643.25 seconds
+Win rate as first player:91.00%, as second player:83.00%
+Iteration 466500 done. Current Explore rate is 0.1000. It takes 140818.69 seconds
+Iteration 467000 done. Current Explore rate is 0.1000. It takes 140991.74 seconds
+Iteration 467500 done. Current Explore rate is 0.1000. It takes 141163.57 seconds
+Iteration 468000 done. Current Explore rate is 0.1000. It takes 141334.24 seconds
+Win rate as first player:92.00%, as second player:92.00%
+Iteration 468500 done. Current Explore rate is 0.1000. It takes 141506.60 seconds
+Iteration 469000 done. Current Explore rate is 0.1000. It takes 141676.46 seconds
+Iteration 469500 done. Current Explore rate is 0.1000. It takes 141849.48 seconds
+Iteration 470000 done. Current Explore rate is 0.1000. It takes 142022.35 seconds
+Win rate as first player:94.00%, as second player:89.00%
+Iteration 470500 done. Current Explore rate is 0.1000. It takes 142202.36 seconds
+Iteration 471000 done. Current Explore rate is 0.1000. It takes 142378.08 seconds
+Iteration 471500 done. Current Explore rate is 0.1000. It takes 142554.20 seconds
+Iteration 472000 done. Current Explore rate is 0.1000. It takes 142728.25 seconds
+Win rate as first player:93.00%, as second player:86.00%
+Iteration 472500 done. Current Explore rate is 0.1000. It takes 142906.62 seconds
+Iteration 473000 done. Current Explore rate is 0.1000. It takes 143083.87 seconds
+Iteration 473500 done. Current Explore rate is 0.1000. It takes 143258.61 seconds
+Iteration 474000 done. Current Explore rate is 0.1000. It takes 143433.96 seconds
+Win rate as first player:96.00%, as second player:89.00%
+Iteration 474500 done. Current Explore rate is 0.1000. It takes 143615.66 seconds
+Iteration 475000 done. Current Explore rate is 0.1000. It takes 143794.89 seconds
+Iteration 475500 done. Current Explore rate is 0.1000. It takes 143968.26 seconds
+Iteration 476000 done. Current Explore rate is 0.1000. It takes 144141.24 seconds
+Win rate as first player:93.00%, as second player:93.00%
+Iteration 476500 done. Current Explore rate is 0.1000. It takes 144317.37 seconds
+Iteration 477000 done. Current Explore rate is 0.1000. It takes 144488.57 seconds
+Iteration 477500 done. Current Explore rate is 0.1000. It takes 144663.58 seconds
+Iteration 478000 done. Current Explore rate is 0.1000. It takes 144859.44 seconds
+Win rate as first player:97.00%, as second player:91.00%
+Iteration 478500 done. Current Explore rate is 0.1000. It takes 145077.11 seconds
+Iteration 479000 done. Current Explore rate is 0.1000. It takes 145260.00 seconds
+Iteration 479500 done. Current Explore rate is 0.1000. It takes 145444.11 seconds
+Iteration 480000 done. Current Explore rate is 0.1000. It takes 145681.08 seconds
+Win rate as first player:95.00%, as second player:88.00%
+Iteration 480500 done. Current Explore rate is 0.1000. It takes 145923.42 seconds
+Iteration 481000 done. Current Explore rate is 0.1000. It takes 146159.18 seconds
+Iteration 481500 done. Current Explore rate is 0.1000. It takes 146393.53 seconds
+Iteration 482000 done. Current Explore rate is 0.1000. It takes 146624.03 seconds
+Win rate as first player:95.00%, as second player:91.00%
+Iteration 482500 done. Current Explore rate is 0.1000. It takes 146866.38 seconds
+Iteration 483000 done. Current Explore rate is 0.1000. It takes 147081.27 seconds
+Iteration 483500 done. Current Explore rate is 0.1000. It takes 147257.75 seconds
+Iteration 484000 done. Current Explore rate is 0.1000. It takes 147432.57 seconds
+Win rate as first player:92.00%, as second player:91.00%
+Iteration 484500 done. Current Explore rate is 0.1000. It takes 147612.06 seconds
+Iteration 485000 done. Current Explore rate is 0.1000. It takes 147835.41 seconds
+Iteration 485500 done. Current Explore rate is 0.1000. It takes 148064.74 seconds
+Iteration 486000 done. Current Explore rate is 0.1000. It takes 148293.59 seconds
+Win rate as first player:91.00%, as second player:94.00%
+Iteration 486500 done. Current Explore rate is 0.1000. It takes 148517.74 seconds
+Iteration 487000 done. Current Explore rate is 0.1000. It takes 148701.77 seconds
+Iteration 487500 done. Current Explore rate is 0.1000. It takes 148883.52 seconds
+Iteration 488000 done. Current Explore rate is 0.1000. It takes 149059.98 seconds
+Win rate as first player:94.00%, as second player:88.00%
+Iteration 488500 done. Current Explore rate is 0.1000. It takes 149238.86 seconds
+Iteration 489000 done. Current Explore rate is 0.1000. It takes 149413.13 seconds
+Iteration 489500 done. Current Explore rate is 0.1000. It takes 149590.41 seconds
+Iteration 490000 done. Current Explore rate is 0.1000. It takes 149765.73 seconds
+Win rate as first player:94.00%, as second player:88.00%
+Iteration 490500 done. Current Explore rate is 0.1000. It takes 149945.13 seconds
+Iteration 491000 done. Current Explore rate is 0.1000. It takes 150125.22 seconds
+Iteration 491500 done. Current Explore rate is 0.1000. It takes 150303.72 seconds
+Iteration 492000 done. Current Explore rate is 0.1000. It takes 150481.56 seconds
+Win rate as first player:96.00%, as second player:94.00%
+Iteration 492500 done. Current Explore rate is 0.1000. It takes 150664.01 seconds
+Iteration 493000 done. Current Explore rate is 0.1000. It takes 150842.27 seconds
+Iteration 493500 done. Current Explore rate is 0.1000. It takes 151021.70 seconds
+Iteration 494000 done. Current Explore rate is 0.1000. It takes 151197.72 seconds
+Win rate as first player:95.00%, as second player:92.00%
+Iteration 494500 done. Current Explore rate is 0.1000. It takes 151379.45 seconds
+Iteration 495000 done. Current Explore rate is 0.1000. It takes 151571.93 seconds
+Iteration 495500 done. Current Explore rate is 0.1000. It takes 151765.87 seconds
+Iteration 496000 done. Current Explore rate is 0.1000. It takes 151977.34 seconds
+Win rate as first player:95.00%, as second player:96.00%
+Iteration 496500 done. Current Explore rate is 0.1000. It takes 152159.31 seconds
+Iteration 497000 done. Current Explore rate is 0.1000. It takes 152335.34 seconds
+Iteration 497500 done. Current Explore rate is 0.1000. It takes 152523.98 seconds
+Iteration 498000 done. Current Explore rate is 0.1000. It takes 152722.94 seconds
+Win rate as first player:97.00%, as second player:93.00%
+Iteration 498500 done. Current Explore rate is 0.1000. It takes 152915.57 seconds
+Iteration 499000 done. Current Explore rate is 0.1000. It takes 153108.26 seconds
+Iteration 499500 done. Current Explore rate is 0.1000. It takes 153312.35 seconds
+Iteration 500000 done. Current Explore rate is 0.1000. It takes 153515.82 seconds
+Win rate as first player:96.00%, as second player:96.00%
+INFO:tensorflow:Assets written to: ddqn_0_policy\assets
+INFO:tensorflow:Assets written to: ddqn_0_policy\assets
+INFO:tensorflow:Assets written to: ddqn_0_target\assets
+INFO:tensorflow:Assets written to: ddqn_0_target\assets
+Training done, it takes  153521.75 seconds. Model saved to ddqn_0_policy and ddqn_0_target
+Installed tk event loop hook.
+Converge curve saved to ddqn_0_curve.png.
+Testing model for 10000 times.
+Win rate as first player:97.52%, as second player:95.88%
